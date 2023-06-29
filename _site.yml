@@ -12,4 +12,10 @@ output:
   html_document:
     theme: cosmo # Adding a site theme
     highlight: textmate # Costumize code highlighting
+    toc: true # Adding a table of contents
+    toc_depth: 3 # Defining the depth
+    toc_float:
+      collapsed: false
     css: css/style.css # Costumize appearance of text, links, etc
+    includes:
+      before_body: include_logo.html

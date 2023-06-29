@@ -1,6 +1,17 @@
 @import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,400;0,700;1,400&display=swap');
 
-/*------------- Whole Document ---------------- */
+/* ------------------- Colors -------------------
+Teal: #01949A
+Forest Green: #324B4C
+Navy Blue: #004369
+Dark Blue: #001737
+Light Grey: #9FACBD
+Dark Grey: #6C7888
+Berry: #642E45
+Beige: #F1F1E6
+*/
+
+/* ------------- Whole Document ---------------- */
 
 /* Apply the Roboto font to the body's text */
 body {
@@ -9,7 +20,7 @@ body {
     font-weight: normal;
 }
 
-/*------------- Links ---------------- */
+/* ------------------- Links ------------------- */
 /* Change the appearance of links*/
 a {
   color: #01949A;
@@ -19,3 +30,30 @@ a {
 a:hover {
   color: #004369;
 }
+
+/* ------------ Adding white space ------------ */
+
+.title {
+  margin-top: 2em !important;
+  margin-bottom: 0.75em;
+}
+
+/* ---------- Including the ADWG-logo ---------- */
+.ADWG-logo {
+  margin-top: 20px;
+  background-image: url("../images/Logo_with_Initials.png");
+  height: 150px;
+  background-size: contain;
+  background-position: right;
+  background-repeat: no-repeat;
+}
+
+
+/* Space Between TOC and Righthand side content on large screens */
+
+ @media (min-width: 992px) {
+    .col-md-9 {
+      width: 75%;
+      padding-left: 5em !important;
+    }
+ }
