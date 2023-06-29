@@ -1,10 +1,21 @@
 @import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,400;0,700;1,400&display=swap');
 
-/*------------- Whole Document---------------- */
+/*------------- Whole Document ---------------- */
 
 /* Apply the Roboto font to the body's text */
 body {
     font-family: 'Roboto', 'Source Sans Pro', Helvetica, sans-serif;
     font-size: 19px;
     font-weight: normal;
+}
+
+/*------------- Links ---------------- */
+/* Change the appearance of links*/
+a {
+  color: #01949A;
+}
+
+/* Change the appearance of links when hovering over them*/
+a:hover {
+  color: #004369;
 }
