@@ -2,8 +2,13 @@ name: "Official_ADWG_website"
 output_dir: "docs"
 navbar:
   title: "NCRR's Anti-Discrimination Working Group"
+  type: inverse
   left:
     - text: "Home"
       href: index.html
     - text: "About"
       href: about.html
+output:
+  html_document:
+    theme: cosmo # Adding a site theme
+    highlight: textmate # Costumize code highlighting
