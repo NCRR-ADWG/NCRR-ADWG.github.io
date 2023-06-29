@@ -1,6 +1,7 @@
-name: "my-website"
+name: "Official_ADWG_website"
+output_dir: "docs"
 navbar:
-  title: "My Website"
+  title: "NCRR's Anti-Discrimination Working Group"
   left:
     - text: "Home"
       href: index.html
