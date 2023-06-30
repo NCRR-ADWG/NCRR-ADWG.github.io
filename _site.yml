@@ -18,4 +18,6 @@ output:
       collapsed: false
     css: css/style.css # Costumize appearance of text, links, etc
     includes:
-      before_body: include_logo.html
+      in_header: include_favicon.html
+      before_body: include_header.html
+      
