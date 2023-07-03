@@ -15,9 +15,10 @@ Beige: #F1F1E6
 
 /* Apply the Roboto font to the body's text */
 body {
-    font-family: 'Roboto', 'Source Sans Pro', Helvetica, sans-serif;
-    font-size: 19px;
-    font-weight: normal;
+  color: #324B4C;
+  font-family: 'Roboto', 'Source Sans Pro', Helvetica, sans-serif;
+  font-size: 19px;
+  font-weight: normal;
 }
 
 /* ------------------- Links ------------------- */
