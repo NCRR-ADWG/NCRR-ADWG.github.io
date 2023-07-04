@@ -19,7 +19,7 @@ Beige: #F1F1E6
     position: relative;
     margin-bottom: 2em;
     /* liner gradient tints the image darker for readability*/
-    background-image: linear-gradient( rgba(0,0,0,.2), rgba(0,0,0,.2) ), url(images/Banner_with_DNA_helix.png); 
+    background-image: linear-gradient( rgba(0,0,0,.2), rgba(0,0,0,.2) ), url(images/Banner_with_DNA_helix.jpg); 
     height: 450px;
     background-size: cover;
     background-color: #01949A;
