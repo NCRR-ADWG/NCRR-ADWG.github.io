@@ -13,7 +13,7 @@ Beige: #F1F1E6
 
 /* --- Hero image at the top of the homepage --- */
 
-/* Large hero imageat the top*/
+/* Large hero image at the top*/
 
 .hero-image {
     position: relative;
@@ -47,6 +47,23 @@ Beige: #F1F1E6
   display: block; /* Change to `display: none` for no bottom text */
   color: #F1F1E6;
   margin-bottom: 2.5rem;
+}
+
+
+/* ------- Adjusting the table of content ------- */
+
+/* Makeing the TOC sticky, which is needed if a hero image is used */
+
+.row-fluid{
+  display: flex; /* Necessary for sticky TOC*/
+}
+
+.tocify {
+  position: -webkit-sticky;
+  position: sticky; 
+  top: 120px; /*Controls where TOC stops when sticky */
+  width: 100% !important;
+  border: none;
 }
 
 /* ------------- Whole Document ---------------- */
