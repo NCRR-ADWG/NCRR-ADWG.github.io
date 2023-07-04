@@ -11,6 +11,45 @@ Berry: #642E45
 Beige: #F1F1E6
 */
 
+/* --- Hero image at the top of the homepage --- */
+
+/* Large hero imageat the top*/
+
+.hero-image {
+    position: relative;
+    margin-bottom: 2em;
+    /* liner gradient tints the image darker for readability*/
+    background-image: linear-gradient( rgba(0,0,0,.2), rgba(0,0,0,.2) ), url(images/Banner_with_DNA_helix.png); 
+    height: 400px;
+    background-size: cover;
+    background-color: #01949A;
+    background-position: center center;
+    display: flex; /* Change to `display: none` for no hero image */
+    justify-content: center;
+    align-items: center;
+}
+
+.top-text {
+  position: relative;
+  font-size: 68px;
+  padding-bottom: 0.5em;
+  text-align: center;
+  display: block; /* Change to `display: none` for no top text */
+  color: #F1F1E6;
+  font-weight: bold;
+}
+
+.bottom-text {
+  position: relative;
+  letter-spacing: 0.065em;
+  line-height: 1em;
+  font-size: 34px;
+  text-align: center;
+  display: block; /* Change to `display: none` for no bottom text */
+  color: #F1F1E6;
+  margin-bottom: 2.5rem;
+}
+
 /* ------------- Whole Document ---------------- */
 
 /* Apply the Roboto font to the body's text */

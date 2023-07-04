@@ -1,5 +1,11 @@
 ---
-title: "My Website"
+title: "ADWG"
+output:
+  html_document:
+    includes:
+      in_header: 
+      - include_favicon.html # Inluding a favicon
+      - include_hero_image.html # Include the hero image
 ---
 
 Hello, Website!
