@@ -1,4 +1,5 @@
 ---
+title: "Equality and diversity"
 output:
   html_document:
     includes:
