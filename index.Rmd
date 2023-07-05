@@ -1,5 +1,4 @@
 ---
-title: "ADWG"
 output:
   html_document:
     includes:
