@@ -15,7 +15,7 @@ Our aims are
 * To strive for **diversity**
 * To be **open** and **transparent**
 * To be mindful that **the topics we discuss may be triggering and upsetting**, impacting on people in different ways.
- +     This is not a passive intellectual topic. It takes time to install the correct support and find solutions. **This is a learning process**
+    + This is not a passive intellectual topic. It takes time to install the correct support and find solutions. **This is a learning process**
 * To discuss ongoing issues with **discrimination in research**
 * To recognize **harmful structures and practices** of discrimination in research
 * To **advocate for changes** that promote equality in research
