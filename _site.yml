@@ -8,6 +8,10 @@ navbar:
       href: index.html
     - text: "About"
       href: about.html
+    - text: "Slides"
+      menu:
+      - text: "First meeting"
+        href: Slides/First_meeting.html
 output:
   html_document:
     theme: cosmo # Adding a site theme
