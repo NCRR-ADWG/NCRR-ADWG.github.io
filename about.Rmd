@@ -3,12 +3,12 @@ title: "About the Anti-Discrimination Working Group"
 ---
 
 ## Who are we? 
-
+<br>
 We are psychiatric genetics researchers at Aarhus University, based at the Department of Clinical Medicine and the National Centre for Register-based Research. We have recently started an Anti-Discrimination Working Group in order to discuss issues related to discrimination and bias in genetics research. The aim is to be better informed and more inclusive in our research.
-
+<br><br><br>
  
 ## What are our aims?
-
+<br>
 Our aims are 
 
 * To strive for **equality**
