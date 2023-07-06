@@ -10,7 +10,7 @@ navbar:
     - text: "Slides"
       menu:
       - text: "First meeting"
-        href: Slides/First_meeting.html
+        href: First_meeting.html
 output:
   html_document:
     theme: cosmo # Adding a site theme
