@@ -66,6 +66,24 @@ Beige: #F1F1E6
   border: none;
 }
 
+/* Changing the color of the links in the TOC and increasing the font size*/
+.list-group-item {
+  color: #F1F1E6;
+  font-size: 21px;
+}
+
+/* Changing the color and background color of active links in the TOC, 
+i.e. the link that show which section that is currently active*/
+.list-group-item.active {
+  color: #F1F1E6;
+  background-color: #001737;
+  border: none;
+}
+/* Changing what happens when hovering over regular and active links in TOC*/
+.list-group-item:hover, .list-group-item.active:hover {
+  color:  #01949A;
+}
+
 /* ------------- Whole Document ---------------- */
 
 /* Apply the Roboto font to the body's text */
