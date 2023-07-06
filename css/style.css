@@ -68,7 +68,8 @@ Beige: #F1F1E6
 
 /* Changing the color of the links in the TOC and increasing the font size*/
 .list-group-item {
-  color: #F1F1E6;
+  color: #001737;
+  background-color: #F1F1E6;
   font-size: 21px;
 }
 
@@ -81,7 +82,44 @@ i.e. the link that show which section that is currently active*/
 }
 /* Changing what happens when hovering over regular and active links in TOC*/
 .list-group-item:hover, .list-group-item.active:hover {
-  color:  #01949A;
+  color:  #6C7888;
+  background-color: #001737;
+}
+
+/* ------------ Adjusting the navbar ------------ */
+
+.navbar-default {
+  color: #F1F1E6;
+  background-color: #001737;
+}
+
+.navbar-default .navbar-nav>.open>a,
+.navbar-default .navbar-nav>.active>a,
+a.dropdown-toggle:hover {
+  background-color: #004369 !important;
+  color: #F1F1E6;
+}
+
+/* Dropdown menu colour*/
+.navbar-default .dropdown-menu {
+  background-color: #004369 !important;
+  color: #F1F1E6;
+}
+
+/* Dropdown menu hover colour*/
+.navbar-default .dropdown-menu>li>a:hover {
+  background-color: #01949A !important;
+  color: #F1F1E6;
+}
+
+/* Navbar Links when hovered*/
+.navbar-default .dropdown-menu>.active>a
+.navbar-default .navbar-nav>.active>a:hover, 
+.navbar-default .navbar-nav:hover, 
+.navbar-default .navbar-nav>li>a:hover, 
+a.navbar-brand:hover {
+  color: #F1F1E6 !important;
+  background-color: #01949A;
 }
 
 /* ------------- Whole Document ---------------- */
