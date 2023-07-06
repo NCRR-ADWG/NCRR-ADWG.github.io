@@ -49,6 +49,39 @@ Beige: #F1F1E6
   margin-bottom: 2.5rem;
 }
 
+/* ------------ Including a footer ------------ */
+
+/* Divider line above footer*/
+
+.footer hr {
+  width: 80%;
+}
+
+.footer {
+  background-color: #9FACBD;
+  font-size: 16px;
+  color: #6C7888;
+  text-align: center;
+  width: 90%;
+  margin: 3rem auto;
+  font-weight: 300;
+}
+
+.footer.logo {
+  width: 25px;
+  margin: 0px !important;
+}
+
+.ADWG-footer {
+  text-align: center;
+  font-size: 16px;
+  text-transform: uppercase;
+}
+
+/* Getting rid of extra space after footer*/
+.tocify-extend-page {
+  height: 0px !important; 
+}
 
 /* ------- Adjusting the table of content ------- */
 

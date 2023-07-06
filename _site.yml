@@ -2,7 +2,6 @@ name: "Official_ADWG_website"
 output_dir: "docs"
 navbar:
   title: "NCRR's Anti-Discrimination Working Group"
-  type: inverse
   left:
     - text: "Home"
       href: index.html
@@ -24,4 +23,5 @@ output:
     includes:
       in_header: include_favicon.html # Inluding a favicon 
       before_body: include_header.html # Including a logo
+      after_body: include_footer.html # Including a footer
       
