@@ -54,7 +54,7 @@ Beige: #F1F1E6
 /* Divider line above footer*/
 
 .footer hr {
-  width: 80%;
+  width: 100% !important;
 }
 
 .footer {
@@ -62,7 +62,7 @@ Beige: #F1F1E6
   font-size: 16px;
   color: #6C7888;
   text-align: center;
-  width: 90%;
+  width: 100%;
   margin: 3rem auto;
   font-weight: 300;
 }
@@ -124,6 +124,7 @@ i.e. the link that show which section that is currently active*/
 .navbar-default {
   color: #F1F1E6;
   background-color: #001737;
+  font-size: 21px;
 }
 
 .navbar-default .navbar-nav>.open>a,
@@ -141,7 +142,7 @@ a.dropdown-toggle:hover {
 
 /* Dropdown menu hover colour*/
 .navbar-default .dropdown-menu>li>a:hover {
-  background-color: #01949A !important;
+  background-color: #004369 !important;
   color: #F1F1E6;
 }
 
