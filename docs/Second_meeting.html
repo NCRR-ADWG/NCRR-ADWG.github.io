@@ -1,0 +1,528 @@
+<!DOCTYPE html>
+
+<html>
+
+<head>
+
+<meta charset="utf-8" />
+<meta name="generator" content="pandoc" />
+<meta http-equiv="X-UA-Compatible" content="IE=EDGE" />
+
+
+
+
+<title>Second meeting - Wednesday 17th May 2023</title>
+
+<script src="site_libs/header-attrs-2.22/header-attrs.js"></script>
+<script src="site_libs/jquery-3.6.0/jquery-3.6.0.min.js"></script>
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<link href="site_libs/bootstrap-3.3.5/css/cosmo.min.css" rel="stylesheet" />
+<script src="site_libs/bootstrap-3.3.5/js/bootstrap.min.js"></script>
+<script src="site_libs/bootstrap-3.3.5/shim/html5shiv.min.js"></script>
+<script src="site_libs/bootstrap-3.3.5/shim/respond.min.js"></script>
+<style>h1 {font-size: 34px;}
+       h1.title {font-size: 38px;}
+       h2 {font-size: 30px;}
+       h3 {font-size: 24px;}
+       h4 {font-size: 18px;}
+       h5 {font-size: 16px;}
+       h6 {font-size: 12px;}
+       code {color: inherit; background-color: rgba(0, 0, 0, 0.04);}
+       pre:not([class]) { background-color: white }</style>
+<script src="site_libs/jqueryui-1.13.2/jquery-ui.min.js"></script>
+<link href="site_libs/tocify-1.9.1/jquery.tocify.css" rel="stylesheet" />
+<script src="site_libs/tocify-1.9.1/jquery.tocify.js"></script>
+<script src="site_libs/navigation-1.1/tabsets.js"></script>
+<link href="site_libs/highlightjs-9.12.0/textmate.css" rel="stylesheet" />
+<script src="site_libs/highlightjs-9.12.0/highlight.js"></script>
+<meta name="description" content="This is the official website for the anti-discrimination working group at the National Centre for Register-based Research and the Department of Clinical Medicine, Aarhus University. However, everyone interested in discussing ongoing issues with discrimination in research and advocating for changes that promote equality in research is welcome to join us online or on site."/>
+
+<link rel="icon" type="image/png" href="images/favicon.ico"/>
+<link rel="apple-touch-icon" sizes="180x180" href="images/apple-touch-icon.png">
+<link rel="icon" type="image/png" sizes="32x32" href="images/favicon-32x32.png">
+<link rel="icon" type="image/png" sizes="16x16" href="images/favicon-16x16.png">
+<link rel="manifest" href="/site.webmanifest">
+
+<style type="text/css">
+  code{white-space: pre-wrap;}
+  span.smallcaps{font-variant: small-caps;}
+  span.underline{text-decoration: underline;}
+  div.column{display: inline-block; vertical-align: top; width: 50%;}
+  div.hanging-indent{margin-left: 1.5em; text-indent: -1.5em;}
+  ul.task-list{list-style: none;}
+    </style>
+
+<style type="text/css">code{white-space: pre;}</style>
+<script type="text/javascript">
+if (window.hljs) {
+  hljs.configure({languages: []});
+  hljs.initHighlightingOnLoad();
+  if (document.readyState && document.readyState === "complete") {
+    window.setTimeout(function() { hljs.initHighlighting(); }, 0);
+  }
+}
+</script>
+
+
+
+
+
+
+<link rel="stylesheet" href="css/style.css" type="text/css" />
+
+
+
+<style type = "text/css">
+.main-container {
+  max-width: 940px;
+  margin-left: auto;
+  margin-right: auto;
+}
+img {
+  max-width:100%;
+}
+.tabbed-pane {
+  padding-top: 12px;
+}
+.html-widget {
+  margin-bottom: 20px;
+}
+button.code-folding-btn:focus {
+  outline: none;
+}
+summary {
+  display: list-item;
+}
+details > summary > p:only-child {
+  display: inline;
+}
+pre code {
+  padding: 0;
+}
+</style>
+
+
+<style type="text/css">
+.dropdown-submenu {
+  position: relative;
+}
+.dropdown-submenu>.dropdown-menu {
+  top: 0;
+  left: 100%;
+  margin-top: -6px;
+  margin-left: -1px;
+  border-radius: 0 6px 6px 6px;
+}
+.dropdown-submenu:hover>.dropdown-menu {
+  display: block;
+}
+.dropdown-submenu>a:after {
+  display: block;
+  content: " ";
+  float: right;
+  width: 0;
+  height: 0;
+  border-color: transparent;
+  border-style: solid;
+  border-width: 5px 0 5px 5px;
+  border-left-color: #cccccc;
+  margin-top: 5px;
+  margin-right: -10px;
+}
+.dropdown-submenu:hover>a:after {
+  border-left-color: #adb5bd;
+}
+.dropdown-submenu.pull-left {
+  float: none;
+}
+.dropdown-submenu.pull-left>.dropdown-menu {
+  left: -100%;
+  margin-left: 10px;
+  border-radius: 6px 0 6px 6px;
+}
+</style>
+
+<script type="text/javascript">
+// manage active state of menu based on current page
+$(document).ready(function () {
+  // active menu anchor
+  href = window.location.pathname
+  href = href.substr(href.lastIndexOf('/') + 1)
+  if (href === "")
+    href = "index.html";
+  var menuAnchor = $('a[href="' + href + '"]');
+
+  // mark the anchor link active (and if it's in a dropdown, also mark that active)
+  var dropdown = menuAnchor.closest('li.dropdown');
+  if (window.bootstrap) { // Bootstrap 4+
+    menuAnchor.addClass('active');
+    dropdown.find('> .dropdown-toggle').addClass('active');
+  } else { // Bootstrap 3
+    menuAnchor.parent().addClass('active');
+    dropdown.addClass('active');
+  }
+
+  // Navbar adjustments
+  var navHeight = $(".navbar").first().height() + 15;
+  var style = document.createElement('style');
+  var pt = "padding-top: " + navHeight + "px; ";
+  var mt = "margin-top: -" + navHeight + "px; ";
+  var css = "";
+  // offset scroll position for anchor links (for fixed navbar)
+  for (var i = 1; i <= 6; i++) {
+    css += ".section h" + i + "{ " + pt + mt + "}\n";
+  }
+  style.innerHTML = "body {" + pt + "padding-bottom: 40px; }\n" + css;
+  document.head.appendChild(style);
+});
+</script>
+
+<!-- tabsets -->
+
+<style type="text/css">
+.tabset-dropdown > .nav-tabs {
+  display: inline-table;
+  max-height: 500px;
+  min-height: 44px;
+  overflow-y: auto;
+  border: 1px solid #ddd;
+  border-radius: 4px;
+}
+
+.tabset-dropdown > .nav-tabs > li.active:before, .tabset-dropdown > .nav-tabs.nav-tabs-open:before {
+  content: "\e259";
+  font-family: 'Glyphicons Halflings';
+  display: inline-block;
+  padding: 10px;
+  border-right: 1px solid #ddd;
+}
+
+.tabset-dropdown > .nav-tabs.nav-tabs-open > li.active:before {
+  content: "\e258";
+  font-family: 'Glyphicons Halflings';
+  border: none;
+}
+
+.tabset-dropdown > .nav-tabs > li.active {
+  display: block;
+}
+
+.tabset-dropdown > .nav-tabs > li > a,
+.tabset-dropdown > .nav-tabs > li > a:focus,
+.tabset-dropdown > .nav-tabs > li > a:hover {
+  border: none;
+  display: inline-block;
+  border-radius: 4px;
+  background-color: transparent;
+}
+
+.tabset-dropdown > .nav-tabs.nav-tabs-open > li {
+  display: block;
+  float: none;
+}
+
+.tabset-dropdown > .nav-tabs > li {
+  display: none;
+}
+</style>
+
+<!-- code folding -->
+
+
+
+<style type="text/css">
+
+#TOC {
+  margin: 25px 0px 20px 0px;
+}
+@media (max-width: 768px) {
+#TOC {
+  position: relative;
+  width: 100%;
+}
+}
+
+@media print {
+.toc-content {
+  /* see https://github.com/w3c/csswg-drafts/issues/4434 */
+  float: right;
+}
+}
+
+.toc-content {
+  padding-left: 30px;
+  padding-right: 40px;
+}
+
+div.main-container {
+  max-width: 1200px;
+}
+
+div.tocify {
+  width: 20%;
+  max-width: 260px;
+  max-height: 85%;
+}
+
+@media (min-width: 768px) and (max-width: 991px) {
+  div.tocify {
+    width: 25%;
+  }
+}
+
+@media (max-width: 767px) {
+  div.tocify {
+    width: 100%;
+    max-width: none;
+  }
+}
+
+.tocify ul, .tocify li {
+  line-height: 20px;
+}
+
+.tocify-subheader .tocify-item {
+  font-size: 0.90em;
+}
+
+.tocify .list-group-item {
+  border-radius: 0px;
+}
+
+.tocify-subheader {
+  display: inline;
+}
+.tocify-subheader .tocify-item {
+  font-size: 0.95em;
+}
+
+</style>
+
+
+
+</head>
+
+<body>
+
+
+<div class="container-fluid main-container">
+
+
+<!-- setup 3col/9col grid for toc_float and main content  -->
+<div class="row">
+<div class="col-xs-12 col-sm-4 col-md-3">
+<div id="TOC" class="tocify">
+</div>
+</div>
+
+<div class="toc-content col-xs-12 col-sm-8 col-md-9">
+
+
+
+
+<div class="navbar navbar-default  navbar-fixed-top" role="navigation">
+  <div class="container">
+    <div class="navbar-header">
+      <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-bs-toggle="collapse" data-target="#navbar" data-bs-target="#navbar">
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+      </button>
+      <a class="navbar-brand" href="index.html">NCRR's Anti-Discrimination Working Group</a>
+    </div>
+    <div id="navbar" class="navbar-collapse collapse">
+      <ul class="nav navbar-nav">
+        <li>
+  <a href="index.html">Home</a>
+</li>
+<li>
+  <a href="about.html">About</a>
+</li>
+<li class="dropdown">
+  <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" data-bs-toggle="dropdown" aria-expanded="false">
+    Slides
+     
+    <span class="caret"></span>
+  </a>
+  <ul class="dropdown-menu" role="menu">
+    <li>
+      <a href="Second_meeting.html">Second meeting</a>
+    </li>
+    <li>
+      <a href="First_meeting.html">First meeting</a>
+    </li>
+  </ul>
+</li>
+      </ul>
+      <ul class="nav navbar-nav navbar-right">
+        
+      </ul>
+    </div><!--/.nav-collapse -->
+  </div><!--/.container -->
+</div><!--/.navbar -->
+<div class="ADWG-logo"> </div>
+
+<div id="header">
+
+
+
+<h1 class="title toc-ignore">Second meeting - Wednesday 17th May
+2023</h1>
+
+</div>
+
+
+<div id="history-of-eugenics" class="section level2">
+<h2>History of eugenics</h2>
+<p><br> The theme of the second ADWG meeting was the history and legacy
+of eugenics in (psychiatric) genetics, and was inspired by &lt;a
+href=“<a href="https://www.adamrutherford.com/"
+class="uri">https://www.adamrutherford.com/</a>” target=“_blank
+rel=“noopener noreferrer” title=“About Adam Rutherford”&gt;Adam
+Rutherford</a>’s 50 minutes Podcast about &lt;a href=“<a
+href="https://howtoacademy.com/podcasts/adam-rutherford-the-troubling-history-of-eugenics/"
+class="uri">https://howtoacademy.com/podcasts/adam-rutherford-the-troubling-history-of-eugenics/</a>”
+target=“_blank rel=“noopener noreferrer” title=“Adam Rutherford - The
+Troubling History of Eugenics”&gt;the troubling history of eugenics</a>.
+We talked about how eugenics was formed as an ancient ideology, and how
+it developed through the work of Charles Darwin, Gregor Mendel and
+Francis Galton, before it was put into policy and practice in the 20th
+century. We spent some time focusing on eugenics in Denmark by talking,
+among others, about the Girl’s Home on Sprogø (read more &lt;a href=“<a
+href="https://sundogbaelt.dk/forbindelser/storebaelt/sprogo/pigehjemmet-pa-sprogo/"
+class="uri">https://sundogbaelt.dk/forbindelser/storebaelt/sprogo/pigehjemmet-pa-sprogo/</a>”
+target=“_blank rel=“noopener noreferrer” title=“Pigehjemmet på
+Sprogø”&gt;here</a> and &lt;a href=“<a
+href="https://cphpost.dk/2021-04-18/history/spectre-of-sprogo-the-dark-chapter-denmark-would-rather-forget/"
+class="uri">https://cphpost.dk/2021-04-18/history/spectre-of-sprogo-the-dark-chapter-denmark-would-rather-forget/</a>”
+target=“_blank rel=“noopener noreferrer” title=“Spectre of
+Sprogø”&gt;here</a>) and the IUD campaign in Greenland (read more &lt;a
+href=“<a
+href="https://sum.dk/nyheder/2022/september/danmark-og-groenland-indgaar-aftale-om-udredning-af-%E2%80%9Dspiralsagen%E2%80%9D"
+class="uri">https://sum.dk/nyheder/2022/september/danmark-og-groenland-indgaar-aftale-om-udredning-af-%E2%80%9Dspiralsagen%E2%80%9D</a>”
+target=“_blank rel=“noopener noreferrer” title=“Spiralsagen”&gt;here</a>
+and &lt;a href=“<a href="https://www.dr.dk/lyd/p1/spiralkampagnen"
+class="uri">https://www.dr.dk/lyd/p1/spiralkampagnen</a>” target=“_blank
+rel=“noopener noreferrer” title=“Spiralkampagnen”&gt;here</a>).
+Furthermore, we discussed that eugenics are unfortunately still present
+in Denmark at the present day: *
+<a href="https://doi.org/10.1016/j.paid.2011.02.031" target="_blank" rel="noopener noreferrer" title="The decay of Western civilization: Double relaxed Darwinian Selection">The
+decay of Western civilization: Double relaxed Darwinian Selection</a>,
+published by Helmuth Nyborg in <strong>Personality and Individual
+Differences</strong> in July 2012. *
+<a href="http://doi.org/10.46469/mq.2022.62.3.4" target="_blank" rel="noopener noreferrer" title="Europeans Have Larger Testes than Sub-Saharan Africans but Lower Testosterone Levels">Europeans
+Have Larger Testes than Sub-Saharan Africans but Lower Testosterone
+Levels</a>, published by Edward Dutton et al. in <strong>Mankind
+Quarterly</strong> in March 2022. *
+<a href="https://front.emilkirkegaard.dk/" target="_blank" rel="noopener noreferrer" title="Emil Ole William Kirkegaard">Emil
+Ole William Kirkegaard’s webpage</a>. <br> Finally, we discussed the
+legacy of eugenics in (psychiatric) genetics and whether we are already
+living in the <em>Brave New World</em>. <br> You can find the slides (in
+PDF format) used in connection to this meeting
+<a href="Slides/ADWG_meeting2_eugenics_history.pdf" target="_blank" rel="noopener noreferrer" title="ADWG meeting - History of eugenics">here</a>.
+<br><br><br></p>
+<div id="merriam-webster-dictionary-eugenics" class="section level3">
+<h3>Merriam-Webster dictionary: Eugenics</h3>
+<p><a href="https://www.merriam-webster.com/dictionary/eugenics" target="_blank" rel="noopener noreferrer" title="Merriam-Webster Dictionary Definition of eugenics"><strong>the
+practice or advocacy of controlled selective breeding of human
+populations (as by sterilization) to improve the population’s genetic
+composition</strong></a> <br><br><br></p>
+</div>
+<div id="further-information" class="section level3">
+<h3>Further information:</h3>
+<p><br> *
+<a href="https://www.adamrutherford.com/eugenics" target="_blank" rel="noopener noreferrer" title="Adam Rutherford - Control">Control
+- The dark history and troubling present of eugenics</a>, by Adam
+Rutherford. *
+<a href="https://www.adamrutherford.com/race" target="_blank" rel="noopener noreferrer" title="Adam Rutherford - How to argue with a racist">How
+to argue with a racist</a>, by Adam Rutherford. *
+<a href="https://www.bbc.co.uk/programmes/m001fd36" target="_blank" rel="noopener noreferrer" title="Bad Blood: The Story of Eugenics">Bad
+Blood: The Story of Eugenics</a> a BBC Radio 4 podcast by Adam
+Rutherford.</p>
+</div>
+</div>
+
+<div class="footer">
+  <p class="ADWG-footer">&copy; Copyright 2023 ADWG. All rights reserved. </p>
+  <p style="text-aling: center;"> 
+    <a href="https://github.com/NCRR-ADWG/NCRR-ADWG.github.io" class="fa fa-github"></a>
+  </p>
+</div>
+
+
+</div>
+</div>
+
+</div>
+
+<script>
+
+// add bootstrap table styles to pandoc tables
+function bootstrapStylePandocTables() {
+  $('tr.odd').parent('tbody').parent('table').addClass('table table-condensed');
+}
+$(document).ready(function () {
+  bootstrapStylePandocTables();
+});
+
+
+</script>
+
+<!-- tabsets -->
+
+<script>
+$(document).ready(function () {
+  window.buildTabsets("TOC");
+});
+
+$(document).ready(function () {
+  $('.tabset-dropdown > .nav-tabs > li').click(function () {
+    $(this).parent().toggleClass('nav-tabs-open');
+  });
+});
+</script>
+
+<!-- code folding -->
+
+<script>
+$(document).ready(function ()  {
+
+    // temporarily add toc-ignore selector to headers for the consistency with Pandoc
+    $('.unlisted.unnumbered').addClass('toc-ignore')
+
+    // move toc-ignore selectors from section div to header
+    $('div.section.toc-ignore')
+        .removeClass('toc-ignore')
+        .children('h1,h2,h3,h4,h5').addClass('toc-ignore');
+
+    // establish options
+    var options = {
+      selectors: "h1,h2,h3",
+      theme: "bootstrap3",
+      context: '.toc-content',
+      hashGenerator: function (text) {
+        return text.replace(/[.\\/?&!#<>]/g, '').replace(/\s/g, '_');
+      },
+      ignoreSelector: ".toc-ignore",
+      scrollTo: 0
+    };
+    options.showAndHide = false;
+    options.smoothScroll = true;
+
+    // tocify
+    var toc = $("#TOC").tocify(options).data("toc-tocify");
+});
+</script>
+
+<!-- dynamically load mathjax for compatibility with self-contained -->
+<script>
+  (function () {
+    var script = document.createElement("script");
+    script.type = "text/javascript";
+    script.src  = "https://mathjax.rstudio.com/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML";
+    document.getElementsByTagName("head")[0].appendChild(script);
+  })();
+</script>
+
+</body>
+</html>
