@@ -7,12 +7,18 @@ navbar:
       href: index.html
     - text: "About"
       href: about.html
-    - text: "Slides"
+    - text: "Meetings"
       menu:
+      - text: "Third meeting"
+        href: Third_meeting.html
       - text: "Second meeting"
         href: Second_meeting.html
       - text: "First meeting"
         href: First_meeting.html
+    - text: "Other resources"
+      menu:
+      - text: "Movies"
+        href: Movies.html
 output:
   html_document:
     theme: cosmo # Adding a site theme

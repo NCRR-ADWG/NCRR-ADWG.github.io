@@ -1,0 +1,597 @@
+<!DOCTYPE html>
+
+<html>
+
+<head>
+
+<meta charset="utf-8" />
+<meta name="generator" content="pandoc" />
+<meta http-equiv="X-UA-Compatible" content="IE=EDGE" />
+
+
+
+
+<title>Third meeting - Wednesday 23rd June 2023</title>
+
+<script src="site_libs/header-attrs-2.22/header-attrs.js"></script>
+<script src="site_libs/jquery-3.6.0/jquery-3.6.0.min.js"></script>
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<link href="site_libs/bootstrap-3.3.5/css/cosmo.min.css" rel="stylesheet" />
+<script src="site_libs/bootstrap-3.3.5/js/bootstrap.min.js"></script>
+<script src="site_libs/bootstrap-3.3.5/shim/html5shiv.min.js"></script>
+<script src="site_libs/bootstrap-3.3.5/shim/respond.min.js"></script>
+<style>h1 {font-size: 34px;}
+       h1.title {font-size: 38px;}
+       h2 {font-size: 30px;}
+       h3 {font-size: 24px;}
+       h4 {font-size: 18px;}
+       h5 {font-size: 16px;}
+       h6 {font-size: 12px;}
+       code {color: inherit; background-color: rgba(0, 0, 0, 0.04);}
+       pre:not([class]) { background-color: white }</style>
+<script src="site_libs/jqueryui-1.13.2/jquery-ui.min.js"></script>
+<link href="site_libs/tocify-1.9.1/jquery.tocify.css" rel="stylesheet" />
+<script src="site_libs/tocify-1.9.1/jquery.tocify.js"></script>
+<script src="site_libs/navigation-1.1/tabsets.js"></script>
+<link href="site_libs/highlightjs-9.12.0/textmate.css" rel="stylesheet" />
+<script src="site_libs/highlightjs-9.12.0/highlight.js"></script>
+<meta name="description" content="This is the official website for the anti-discrimination working group at the National Centre for Register-based Research and the Department of Clinical Medicine, Aarhus University. However, everyone interested in discussing ongoing issues with discrimination in research and advocating for changes that promote equality in research is welcome to join us online or on site."/>
+
+<link rel="icon" type="image/png" href="images/favicon.ico"/>
+<link rel="apple-touch-icon" sizes="180x180" href="images/apple-touch-icon.png">
+<link rel="icon" type="image/png" sizes="32x32" href="images/favicon-32x32.png">
+<link rel="icon" type="image/png" sizes="16x16" href="images/favicon-16x16.png">
+<link rel="manifest" href="/site.webmanifest">
+
+<style type="text/css">
+  code{white-space: pre-wrap;}
+  span.smallcaps{font-variant: small-caps;}
+  span.underline{text-decoration: underline;}
+  div.column{display: inline-block; vertical-align: top; width: 50%;}
+  div.hanging-indent{margin-left: 1.5em; text-indent: -1.5em;}
+  ul.task-list{list-style: none;}
+    </style>
+
+<style type="text/css">code{white-space: pre;}</style>
+<script type="text/javascript">
+if (window.hljs) {
+  hljs.configure({languages: []});
+  hljs.initHighlightingOnLoad();
+  if (document.readyState && document.readyState === "complete") {
+    window.setTimeout(function() { hljs.initHighlighting(); }, 0);
+  }
+}
+</script>
+
+
+
+
+
+
+<link rel="stylesheet" href="css/style.css" type="text/css" />
+
+
+
+<style type = "text/css">
+.main-container {
+  max-width: 940px;
+  margin-left: auto;
+  margin-right: auto;
+}
+img {
+  max-width:100%;
+}
+.tabbed-pane {
+  padding-top: 12px;
+}
+.html-widget {
+  margin-bottom: 20px;
+}
+button.code-folding-btn:focus {
+  outline: none;
+}
+summary {
+  display: list-item;
+}
+details > summary > p:only-child {
+  display: inline;
+}
+pre code {
+  padding: 0;
+}
+</style>
+
+
+<style type="text/css">
+.dropdown-submenu {
+  position: relative;
+}
+.dropdown-submenu>.dropdown-menu {
+  top: 0;
+  left: 100%;
+  margin-top: -6px;
+  margin-left: -1px;
+  border-radius: 0 6px 6px 6px;
+}
+.dropdown-submenu:hover>.dropdown-menu {
+  display: block;
+}
+.dropdown-submenu>a:after {
+  display: block;
+  content: " ";
+  float: right;
+  width: 0;
+  height: 0;
+  border-color: transparent;
+  border-style: solid;
+  border-width: 5px 0 5px 5px;
+  border-left-color: #cccccc;
+  margin-top: 5px;
+  margin-right: -10px;
+}
+.dropdown-submenu:hover>a:after {
+  border-left-color: #adb5bd;
+}
+.dropdown-submenu.pull-left {
+  float: none;
+}
+.dropdown-submenu.pull-left>.dropdown-menu {
+  left: -100%;
+  margin-left: 10px;
+  border-radius: 6px 0 6px 6px;
+}
+</style>
+
+<script type="text/javascript">
+// manage active state of menu based on current page
+$(document).ready(function () {
+  // active menu anchor
+  href = window.location.pathname
+  href = href.substr(href.lastIndexOf('/') + 1)
+  if (href === "")
+    href = "index.html";
+  var menuAnchor = $('a[href="' + href + '"]');
+
+  // mark the anchor link active (and if it's in a dropdown, also mark that active)
+  var dropdown = menuAnchor.closest('li.dropdown');
+  if (window.bootstrap) { // Bootstrap 4+
+    menuAnchor.addClass('active');
+    dropdown.find('> .dropdown-toggle').addClass('active');
+  } else { // Bootstrap 3
+    menuAnchor.parent().addClass('active');
+    dropdown.addClass('active');
+  }
+
+  // Navbar adjustments
+  var navHeight = $(".navbar").first().height() + 15;
+  var style = document.createElement('style');
+  var pt = "padding-top: " + navHeight + "px; ";
+  var mt = "margin-top: -" + navHeight + "px; ";
+  var css = "";
+  // offset scroll position for anchor links (for fixed navbar)
+  for (var i = 1; i <= 6; i++) {
+    css += ".section h" + i + "{ " + pt + mt + "}\n";
+  }
+  style.innerHTML = "body {" + pt + "padding-bottom: 40px; }\n" + css;
+  document.head.appendChild(style);
+});
+</script>
+
+<!-- tabsets -->
+
+<style type="text/css">
+.tabset-dropdown > .nav-tabs {
+  display: inline-table;
+  max-height: 500px;
+  min-height: 44px;
+  overflow-y: auto;
+  border: 1px solid #ddd;
+  border-radius: 4px;
+}
+
+.tabset-dropdown > .nav-tabs > li.active:before, .tabset-dropdown > .nav-tabs.nav-tabs-open:before {
+  content: "\e259";
+  font-family: 'Glyphicons Halflings';
+  display: inline-block;
+  padding: 10px;
+  border-right: 1px solid #ddd;
+}
+
+.tabset-dropdown > .nav-tabs.nav-tabs-open > li.active:before {
+  content: "\e258";
+  font-family: 'Glyphicons Halflings';
+  border: none;
+}
+
+.tabset-dropdown > .nav-tabs > li.active {
+  display: block;
+}
+
+.tabset-dropdown > .nav-tabs > li > a,
+.tabset-dropdown > .nav-tabs > li > a:focus,
+.tabset-dropdown > .nav-tabs > li > a:hover {
+  border: none;
+  display: inline-block;
+  border-radius: 4px;
+  background-color: transparent;
+}
+
+.tabset-dropdown > .nav-tabs.nav-tabs-open > li {
+  display: block;
+  float: none;
+}
+
+.tabset-dropdown > .nav-tabs > li {
+  display: none;
+}
+</style>
+
+<!-- code folding -->
+
+
+
+<style type="text/css">
+
+#TOC {
+  margin: 25px 0px 20px 0px;
+}
+@media (max-width: 768px) {
+#TOC {
+  position: relative;
+  width: 100%;
+}
+}
+
+@media print {
+.toc-content {
+  /* see https://github.com/w3c/csswg-drafts/issues/4434 */
+  float: right;
+}
+}
+
+.toc-content {
+  padding-left: 30px;
+  padding-right: 40px;
+}
+
+div.main-container {
+  max-width: 1200px;
+}
+
+div.tocify {
+  width: 20%;
+  max-width: 260px;
+  max-height: 85%;
+}
+
+@media (min-width: 768px) and (max-width: 991px) {
+  div.tocify {
+    width: 25%;
+  }
+}
+
+@media (max-width: 767px) {
+  div.tocify {
+    width: 100%;
+    max-width: none;
+  }
+}
+
+.tocify ul, .tocify li {
+  line-height: 20px;
+}
+
+.tocify-subheader .tocify-item {
+  font-size: 0.90em;
+}
+
+.tocify .list-group-item {
+  border-radius: 0px;
+}
+
+.tocify-subheader {
+  display: inline;
+}
+.tocify-subheader .tocify-item {
+  font-size: 0.95em;
+}
+
+</style>
+
+
+
+</head>
+
+<body>
+
+
+<div class="container-fluid main-container">
+
+
+<!-- setup 3col/9col grid for toc_float and main content  -->
+<div class="row">
+<div class="col-xs-12 col-sm-4 col-md-3">
+<div id="TOC" class="tocify">
+</div>
+</div>
+
+<div class="toc-content col-xs-12 col-sm-8 col-md-9">
+
+
+
+
+<div class="navbar navbar-default  navbar-fixed-top" role="navigation">
+  <div class="container">
+    <div class="navbar-header">
+      <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-bs-toggle="collapse" data-target="#navbar" data-bs-target="#navbar">
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+      </button>
+      <a class="navbar-brand" href="index.html">NCRR's Anti-Discrimination Working Group</a>
+    </div>
+    <div id="navbar" class="navbar-collapse collapse">
+      <ul class="nav navbar-nav">
+        <li>
+  <a href="index.html">Home</a>
+</li>
+<li>
+  <a href="about.html">About</a>
+</li>
+<li class="dropdown">
+  <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" data-bs-toggle="dropdown" aria-expanded="false">
+    Meetings
+     
+    <span class="caret"></span>
+  </a>
+  <ul class="dropdown-menu" role="menu">
+    <li>
+      <a href="Third_meeting.html">Third meeting</a>
+    </li>
+    <li>
+      <a href="Second_meeting.html">Second meeting</a>
+    </li>
+    <li>
+      <a href="First_meeting.html">First meeting</a>
+    </li>
+  </ul>
+</li>
+<li class="dropdown">
+  <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" data-bs-toggle="dropdown" aria-expanded="false">
+    Other resources
+     
+    <span class="caret"></span>
+  </a>
+  <ul class="dropdown-menu" role="menu">
+    <li>
+      <a href="Movies.html">Movies</a>
+    </li>
+  </ul>
+</li>
+      </ul>
+      <ul class="nav navbar-nav navbar-right">
+        
+      </ul>
+    </div><!--/.nav-collapse -->
+  </div><!--/.container -->
+</div><!--/.navbar -->
+<div class="ADWG-logo"> </div>
+
+<div id="header">
+
+
+
+<h1 class="title toc-ignore">Third meeting - Wednesday 23rd June
+2023</h1>
+
+</div>
+
+
+<div id="embryonic-screening" class="section level2">
+<h2>Embryonic Screening</h2>
+<p><br> At the third ADWG meeting we discussed the implementation and
+use of embryonic screening and the concerns that arise in this
+connection. The reason for considering this topic was a participant’s
+experience. One of the meetings participants had been contacted by
+Stephen Hsu about collaborating on polygenic risk scores in embryo
+screening in the past. The participant did not engage in this
+collaboration, but since polygenic embryo screening has become more
+present than ever, we decided that it is an important topic to
+cover.</p>
+<p>The meeting started with an overview of the different genetic testing
+approaches, with special focus on pre-implantation genetic testing
+(PGT). In connection to PGT, cells are biopsied from the embryo
+approximately 5-7 days after fertilization. The genetic material is
+analyzed and unaffected embryos are selected for transfer. These tests
+are highly sensitive and very accurate. For more information about PGT,
+we recommend reading
+<a href=https://learn.genetics.utah.edu/content/disorders/whatispgt" target="_blank" rel="noopener noreferrer" title="What is Preimplantation Genetic Testing">this</a>
+website. In Denmark, PGT is publicly funded and performed at
+Rigshospitalet Copenhagen and at Aalborg University Hospital. <br> We
+also briefly talked about non-invasive prenatal screening/testing
+(NIPT), which measures the amount of fetal DNA corresponding to
+chromosomes 13 (Patau syndrome), 18 (Edwards syndrome) and 21 (Down
+syndrome) in a blood sample <strong>taken from the mother</strong> in
+pregnancy (you can find more information about NIPT on
+<a href="https://www.stgeorges.nhs.uk/service/maternity-services/your-pregnancy/fetal-medicine-unit/the-safe-test/" target="_blank" rel="noopener noreferrer" title="Non-Invasive Prenatal Testing">this</a>
+website). This service is available in Denmark as well, but only in
+high-risk pregnancies. <br> Next, we introduced polygenic embryo
+screening (PES), which is <em>The application of polygenic risk scores
+in the context of PGT, in order to determine each embryo’s liability for
+one or more diseases/traits, and to guide selection of an embryo for
+implantation</em>
+(<a href="https://doi.org/10.1016/s2215-0366(22)00157-2" target="_blank" rel="noopener noreferrer" title="Concerns about the use of polygenic embryo screening for psychiatric and cognitive traits">Todd
+Lencz et al., 2022</a>). Despite many concerns, pre-implantation genetic
+testing for polygenic disorders (PGT-P) is now being offered at around
+200 IVF clinics across six continents
+(<a href="https://www.wired.co.uk/article/genetic-screening-ivf-healthiest-embryos" target="_blank" rel="noopener noreferrer" title="Genetic Screening Now Lets Parents Pick the Healthiest Embryos"><em>Genetic
+Screening Now Lets Parents Pick the Healthiest Embryos</em></a>,
+<a href="https://www.geneticsandsociety.org/biopolitical-times/first-polygenic-risk-score-baby" target="_blank" rel="noopener noreferrer" title="The First Polygenic Risk Score Baby"><em>The
+First Polygenic Risk Score Baby</em></a>). Genomic Prediction, which was
+cofounded by Stephen Hsu and which is the biotech company behind
+<a href="https://www.lifeview.com/" target="_blank" rel="noopener noreferrer" title="LifeView">LifeView</a>),
+was the first firm in the US to provide genetic screening services to
+prospective parents. On their website, they site ony a single paper
+about the testing validation,
+<a href="https://doi.org/10.1016/j.ejmg.2019.04.004" target="_blank" rel="noopener noreferrer" title="Testing validation"><em>Validation
+of concurrent preimplantation genetic testing for polygenic and
+monogenic disorders, structural rearrangements, and whole and segmental
+chromosome aneuploidy with a single universal platform</em></a>, Nathan
+R. Treff et al., 2019, and they have been criticized by many for not
+considering the practical/scientific issues about the efficacy as well
+as ethical issues. <br> Among the practical/scientific issues are:</p>
+<ul>
+<li>PES depends on accuracy of polygenic scores (sample size and trait
+heritability).</li>
+<li>Variance explained by a polygenic score is much lower than SNP-based
+h2 (which, in turn, is much lower than broad-sense H2).</li>
+<li>Polygenic scores are based on GWAS results which may also capture
+genetic nurture.</li>
+<li>Polygenic scores are inherently probabilistic and capture risk for
+multiple phenotypes.</li>
+<li>Polygenic scores are not transferrable across genetic
+ancestries.</li>
+<li>The goals of PES are not clearly defined. What do parents want?</li>
+<li>No established guidelines on communication of results of polygenic
+scores, what they mean, and what parents can expect from PES.</li>
+<li>Regulations differ across countries. This could lead to reproductive
+tourism</li>
+</ul>
+<p><br> Some of the ethical issues with PES are:</p>
+<ul>
+<li>Encouragement of eugenicist beliefs.</li>
+<li>Encouragement of genetic essentialism.</li>
+<li>Encouragement of fatalism.</li>
+<li>Increased stigma around certain disorders/traits.</li>
+<li>Need to take into account views of research participants (e.g., in
+GWAS).</li>
+<li>Researchers feeling that their contributions have been misused.</li>
+<li>Distrust of genetics research community.</li>
+</ul>
+<p><br> We also mentioned the statement issued by the International
+Society of Psychiatric Genetics (ISPG), which you can find
+<a href="https://ispg.net/wp-content/uploads/2021/05/2021-May-ISPG-Ethics-Advisory-Embryo-Screening.pdf" target="_blank" rel="noopener noreferrer" title="Advisory on the Use of Polygenic Risk Scores to Screen Embryos for Adult Mental Conditions">here</a>.
+<br> To have enough time to discuss these issues and concerns, the
+discussion was held at the next ADWG meeting on August 18, 2023.</p>
+<p><br> We highly recommend reading the review
+<a href="https://doi.org/10.1016/s2215-0366(22)00157-2" target="_blank" rel="noopener noreferrer" title="Concerns about the use of polygenic embryo screening for psychiatric and cognitive traits"><em>Concerns
+about the use of polygenic embryo screening for psychiatric and
+cognitive traits</em></a>, published by Todd Lencz et al. in Lancet
+Psychiatry in 2022. <br><br></p>
+<p>You can find the slides (in PDF format) used in connection to this
+meeting
+<a href="Slides/ADWG_meeting3_embryonic_screening_part1.pdf" target="_blank" rel="noopener noreferrer" title="ADWG meeting - Embryonic screening">here</a>.
+<br><br><br></p>
+<div id="further-information" class="section level3">
+<h3>Further information:</h3>
+<p><br></p>
+<ul>
+<li><a href="https://www.polygenicembryo.org/" target="_blank" rel="noopener noreferrer" title="Polygenic Embryo ELSI Research">Polygenic
+Embryo ELSI Research - The ‘PEER’ Group</a>.</li>
+<li><a href="https://doi.org/10.1111/aogs.13831" target="_blank" rel="noopener noreferrer" title="Preimplantation genetic testing legislation and accessibility in the Nordic countries"><em>Preimplantation
+genetic testing legislation and accessibility in the Nordic
+countries</em></a>, Julius Hreinsson et al., Acta Obstetricia et
+Gynecologica Scandinavica, 2020.</li>
+<li><a href="https://doi.org/10.1111/aogs.13882" target="_blank" rel="noopener noreferrer" title="Personalized medicine for the embryo and the fetus - Options in modern genetics influence preconception and prenatal choices"><em>Personalized
+medicine for the embryo and the fetus - Options in modern genetics
+influence preconception and prenatal choices</em></a>, Hans Jakob
+Ingerslev et al., Acta Obstetricia et Gynecologica Scandinavica,
+2020.</li>
+<li><a href="https://doi.org/10.1111/aogs.14052" target="_blank" rel="noopener noreferrer" title="National data on the early clinical use of non-invasive prenatal testing in public and private healthcare in Denmark 2013-2017"><em>National
+data on the early clinical use of non-invasive prenatal testing in
+public and private healthcare in Denmark 2013-2017</em></a>, Ida C.B.
+Lund et al., Acta Obstetricia et Gynecologica Scandinavica, 2020.</li>
+<li><a href="https://doi.org/10.1002/pd.6088" target="_blank" rel="noopener noreferrer" title="Patients' choices and opinions on chorionic villous sampling and non-invasive alternatives for prenatal testing following preimplantation genetic testing for hereditary disorders: A cross-sectional questionnaire study"><em>Patients’
+choices and opinions on chorionic villous sampling and non-invasive
+alternatives for prenatal testing following preimplantation genetic
+testing for hereditary disorders: A cross-sectional questionnaire
+study</em></a>, Christian L.F. Toft et al., Prenatal Diagnosis,
+2022.</li>
+</ul>
+</div>
+</div>
+
+<div class="footer">
+  <p class="ADWG-footer">&copy; Copyright 2023 ADWG. All rights reserved. </p>
+  <p style="text-aline: center;"> 
+    <a href="https://github.com/NCRR-ADWG/NCRR-ADWG.github.io" class="fa fa-github"></a>
+  </p>
+</div>
+
+
+</div>
+</div>
+
+</div>
+
+<script>
+
+// add bootstrap table styles to pandoc tables
+function bootstrapStylePandocTables() {
+  $('tr.odd').parent('tbody').parent('table').addClass('table table-condensed');
+}
+$(document).ready(function () {
+  bootstrapStylePandocTables();
+});
+
+
+</script>
+
+<!-- tabsets -->
+
+<script>
+$(document).ready(function () {
+  window.buildTabsets("TOC");
+});
+
+$(document).ready(function () {
+  $('.tabset-dropdown > .nav-tabs > li').click(function () {
+    $(this).parent().toggleClass('nav-tabs-open');
+  });
+});
+</script>
+
+<!-- code folding -->
+
+<script>
+$(document).ready(function ()  {
+
+    // temporarily add toc-ignore selector to headers for the consistency with Pandoc
+    $('.unlisted.unnumbered').addClass('toc-ignore')
+
+    // move toc-ignore selectors from section div to header
+    $('div.section.toc-ignore')
+        .removeClass('toc-ignore')
+        .children('h1,h2,h3,h4,h5').addClass('toc-ignore');
+
+    // establish options
+    var options = {
+      selectors: "h1,h2,h3",
+      theme: "bootstrap3",
+      context: '.toc-content',
+      hashGenerator: function (text) {
+        return text.replace(/[.\\/?&!#<>]/g, '').replace(/\s/g, '_');
+      },
+      ignoreSelector: ".toc-ignore",
+      scrollTo: 0
+    };
+    options.showAndHide = false;
+    options.smoothScroll = true;
+
+    // tocify
+    var toc = $("#TOC").tocify(options).data("toc-tocify");
+});
+</script>
+
+<!-- dynamically load mathjax for compatibility with self-contained -->
+<script>
+  (function () {
+    var script = document.createElement("script");
+    script.type = "text/javascript";
+    script.src  = "https://mathjax.rstudio.com/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML";
+    document.getElementsByTagName("head")[0].appendChild(script);
+  })();
+</script>
+
+</body>
+</html>

@@ -1,0 +1,65 @@
+---
+title: "Third meeting - Wednesday 23rd June 2023"
+---
+
+## Embryonic Screening
+<br>
+At the third ADWG meeting we discussed the implementation and use of embryonic screening and the concerns that arise in this connection.
+The reason for considering this topic was a participant's experience. One of the meetings participants had been contacted by Stephen Hsu about collaborating on polygenic risk scores in embryo screening in the past. The participant did not engage in this collaboration, but since polygenic embryo screening has become more present than ever, we decided that it is an important topic to cover. 
+
+The meeting started with an overview of the different genetic testing approaches, with special focus on pre-implantation genetic testing (PGT). In connection to PGT, cells are biopsied from the embryo approximately 5-7 days after fertilization. The genetic material is analyzed and unaffected embryos are selected for transfer. These tests are highly sensitive and very accurate. For more information about PGT, we recommend reading <a href=https://learn.genetics.utah.edu/content/disorders/whatispgt" target="_blank" rel="noopener noreferrer" title="What is Preimplantation Genetic Testing">this</a> website.
+In Denmark, PGT is publicly funded and performed at Rigshospitalet Copenhagen and at Aalborg University Hospital.
+<br>
+We also briefly talked about non-invasive prenatal screening/testing (NIPT), which measures the amount of fetal DNA corresponding to chromosomes 13 (Patau syndrome), 18 (Edwards syndrome) and 21 (Down syndrome) in a blood sample __taken from the mother__ in pregnancy (you can find more information about NIPT on <a href="https://www.stgeorges.nhs.uk/service/maternity-services/your-pregnancy/fetal-medicine-unit/the-safe-test/" target="_blank" rel="noopener noreferrer" title="Non-Invasive Prenatal Testing">this</a> website). This service is available in Denmark as well, but only in high-risk pregnancies.
+<br>
+Next, we introduced polygenic embryo screening (PES), which is 
+_The application of polygenic risk scores in the context of PGT, in order to determine each embryo's liability for one or more diseases/traits, and to guide selection of an embryo for implantation_ (<a href="https://doi.org/10.1016/s2215-0366(22)00157-2" target="_blank" rel="noopener noreferrer" title="Concerns about the use of polygenic embryo screening for psychiatric and cognitive traits">Todd Lencz et al., 2022</a>).
+Despite many concerns, pre-implantation genetic testing for polygenic disorders (PGT-P) is now being offered at around 200 IVF clinics across six continents (<a href="https://www.wired.co.uk/article/genetic-screening-ivf-healthiest-embryos" target="_blank" rel="noopener noreferrer" title="Genetic Screening Now Lets Parents Pick the Healthiest Embryos">_Genetic Screening Now Lets Parents Pick the Healthiest Embryos_</a>, <a href="https://www.geneticsandsociety.org/biopolitical-times/first-polygenic-risk-score-baby" target="_blank" rel="noopener noreferrer" title="The First Polygenic Risk Score Baby">_The First Polygenic Risk Score Baby_</a>).
+Genomic Prediction, which was cofounded by Stephen Hsu and which is the biotech company behind <a href="https://www.lifeview.com/" target="_blank" rel="noopener noreferrer" title="LifeView">LifeView</a>), was the first firm in the US to provide genetic screening services to prospective parents. On their website, they site ony a single paper about the testing validation, <a href="https://doi.org/10.1016/j.ejmg.2019.04.004" target="_blank" rel="noopener noreferrer" title="Testing validation">_Validation of concurrent preimplantation genetic testing for polygenic and monogenic disorders, structural rearrangements, and whole and segmental chromosome aneuploidy with a single universal platform_</a>, Nathan R. Treff et al., 2019, and they have been criticized by many for not considering the practical/scientific issues about the efficacy as well as ethical issues.
+<br> 
+Among the practical/scientific issues are:
+
+* PES depends on accuracy of polygenic scores (sample size and trait heritability).
+* Variance explained by a polygenic score is much lower than SNP-based h2 (which, in turn, is much lower than broad-sense H2).
+* Polygenic scores are based on GWAS results which may also capture genetic nurture.
+* Polygenic scores are inherently probabilistic and capture risk for multiple phenotypes.
+* Polygenic scores are not transferrable across genetic ancestries.
+* The goals of PES are not clearly defined. What do parents want?
+* No established guidelines on communication of results of polygenic scores, what they mean, and what parents can expect from PES.
+* Regulations differ across countries. This could lead to reproductive tourism
+
+<br> 
+Some of the ethical issues with PES are:
+
+* Encouragement of eugenicist beliefs.
+* Encouragement of genetic essentialism.
+* Encouragement of fatalism.
+* Increased stigma around certain disorders/traits.
+* Need to take into account views of research participants (e.g., in GWAS).
+* Researchers feeling that their contributions have been misused.
+* Distrust of genetics research community.
+
+<br>
+We also mentioned the statement issued by the International Society of Psychiatric Genetics (ISPG), which you can find <a href="https://ispg.net/wp-content/uploads/2021/05/2021-May-ISPG-Ethics-Advisory-Embryo-Screening.pdf" target="_blank" rel="noopener noreferrer" title="Advisory on the Use of Polygenic Risk Scores to Screen Embryos for Adult Mental Conditions">here</a>.
+<br>
+To have enough time to discuss these issues and concerns, the discussion was held at the next ADWG meeting on August 18, 2023.
+
+<br>
+We highly recommend reading the review <a href="https://doi.org/10.1016/s2215-0366(22)00157-2" target="_blank" rel="noopener noreferrer" title="Concerns about the use of polygenic embryo screening for psychiatric and cognitive traits">_Concerns about the use of polygenic embryo screening for psychiatric and cognitive traits_</a>, published by Todd Lencz et al. in Lancet Psychiatry in 2022.
+<br><br>
+
+You can find the slides (in PDF format) used in connection to this meeting <a href="Slides/ADWG_meeting3_embryonic_screening_part1.pdf" target="_blank" rel="noopener noreferrer" title="ADWG meeting - Embryonic screening">here</a>.
+<br><br><br>
+
+### Further information:
+<br>
+
+* <a href="https://www.polygenicembryo.org/" target="_blank" rel="noopener noreferrer" title="Polygenic Embryo ELSI Research">Polygenic Embryo ELSI Research - The 'PEER' Group</a>.
+* <a href="https://doi.org/10.1111/aogs.13831" target="_blank" rel="noopener noreferrer" title="Preimplantation genetic testing legislation and accessibility in the Nordic countries">_Preimplantation genetic testing legislation and accessibility in the Nordic countries_</a>, Julius Hreinsson et al., Acta Obstetricia et Gynecologica Scandinavica, 2020.
+* <a href="https://doi.org/10.1111/aogs.13882" target="_blank" rel="noopener noreferrer" title="Personalized medicine for the embryo and the fetus - Options in modern genetics influence preconception and prenatal choices">_Personalized medicine for the embryo and the fetus - Options in modern genetics influence preconception and prenatal choices_</a>, Hans Jakob Ingerslev et al., Acta Obstetricia et Gynecologica Scandinavica, 2020.
+* <a href="https://doi.org/10.1111/aogs.14052" target="_blank" rel="noopener noreferrer" title="National data on the early clinical use of non-invasive prenatal testing in public and private healthcare in Denmark 2013-2017">_National data on the early clinical use of non-invasive prenatal testing in public and private healthcare in Denmark 2013-2017_</a>, Ida C.B. Lund et al., Acta Obstetricia et Gynecologica Scandinavica, 2020.
+* <a href="https://doi.org/10.1002/pd.6088" target="_blank" rel="noopener noreferrer" title="Patients' choices and opinions on chorionic villous sampling and non-invasive alternatives for prenatal testing following preimplantation genetic testing for hereditary disorders: A cross-sectional questionnaire study">_Patients' choices and opinions on chorionic villous sampling and non-invasive alternatives for prenatal testing following preimplantation genetic testing for hereditary disorders: A cross-sectional questionnaire study_</a>, Christian L.F. Toft et al., Prenatal Diagnosis, 2022.
+
+
+
+
