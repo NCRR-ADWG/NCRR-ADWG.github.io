@@ -16,17 +16,17 @@ Beige: #F1F1E6
 /* Large hero image at the top*/
 
 .hero-image {
-    position: relative;
-    margin-bottom: 2em;
-    /* liner gradient tints the image darker for readability*/
-    background-image: linear-gradient( rgba(0,0,0,.2), rgba(0,0,0,.2) ), url(images/Banner_with_DNA_helix.jpg); 
-    height: 450px;
-    background-size: cover;
-    background-color: #01949A;
-    background-position: center center;
-    display: flex; /* Change to `display: none` for no hero image */
-    justify-content: center;
-    align-items: center;
+  background-image: url(images/Banner_with_DNA_helix.jpg); /* The background image */
+  background-color: #01949A; /* Used if the background image is unavailable*/
+  height: 500px; /* The height of the background image */
+  background-position: center; /* Center the background image */
+  background-repeat: no-repeat; /* Do not repeat the background image */
+  background-size: cover; /* Resize the background image to cover the entire container */
+  position: relative;
+  margin-bottom: 2em;
+  display: flex; /* Change to `display: none` for no hero image */
+  justify-content: center;
+  align-items: center;
 }
 
 .top-text {
