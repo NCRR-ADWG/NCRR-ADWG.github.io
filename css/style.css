@@ -51,20 +51,21 @@ Beige: #F1F1E6
 
 /* ------------ Including a footer ------------ */
 
-/* Divider line above footer*/
-
-.footer hr {
-  width: 100% !important;
-}
-
 .footer {
+  position:absolute;
+  margin: 2em 0 0 0;
+  padding: 0;
+  height: 100px;
+  background-size: cover;
   background-color: #9FACBD;
+  background-position: center center;
   font-size: 16px;
   color: #6C7888;
   text-align: center;
   width: 100%;
-  margin: 3rem auto;
   font-weight: 300;
+  justify-content: center;
+  align-items: center;
 }
 
 .footer.logo {
@@ -153,17 +154,24 @@ a.dropdown-toggle:hover {
 .navbar-default .navbar-nav>li>a:hover, 
 a.navbar-brand:hover {
   color: #F1F1E6 !important;
-  background-color: #01949A;
+  background-color: #004369;
 }
 
 /* ------------- Whole Document ---------------- */
 
 /* Apply the Roboto font to the body's text */
 body {
+  margin: 0;
+  padding: 0;
   color: #324B4C;
   font-family: 'Roboto', 'Source Sans Pro', Helvetica, sans-serif;
   font-size: 19px;
   font-weight: normal;
+}
+
+html {
+  margin: 0;
+  padding: 0;
 }
 
 /* ------------------- Links ------------------- */
