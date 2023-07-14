@@ -9,6 +9,8 @@ navbar:
       href: about.html
     - text: "Meetings"
       menu:
+      - text: "Fourth meeting"
+        href: Fourth_meeting.html
       - text: "Third meeting"
         href: Third_meeting.html
       - text: "Second meeting"
