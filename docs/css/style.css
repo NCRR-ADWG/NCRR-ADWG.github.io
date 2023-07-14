@@ -57,7 +57,7 @@ Beige: #F1F1E6
   padding: 0;
   height: 100px;
   background-size: cover;
-  background-color: #9FACBD;
+  background-color: #001737;
   background-position: center center;
   font-size: 16px;
   color: #6C7888;
@@ -160,6 +160,12 @@ a.navbar-brand:hover {
 /* ------------- Whole Document ---------------- */
 
 /* Apply the Roboto font to the body's text */
+*{
+  margin:0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
 body {
   margin: 0;
   padding: 0;
