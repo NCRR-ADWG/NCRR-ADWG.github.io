@@ -10,6 +10,16 @@ output:
 
 is what we aim for.
 <br>
-You can read more about our aims under <a href="about.html" target="_blank" rel="noopener noreferrer" title="About the Anti-Discrimination Working Group">About</a>.
-<br>
+We are psychiatric genetics researchers at Aarhus University, based at 
+<a href="https://clin.au.dk/" target="_blank" rel="noopener noreferrer" title="The Department of Clinical Medicine">the Department of Clinical Medicine</a> and 
+<a href="https://ncrr.au.dk/" target="_blank" rel="noopener noreferrer" title="The National Centre for Register-based Research">the National Centre for Register-based Research (NCRR)</a>. We started an Anti-Discrimination Working Group in the spring of 2023 to discuss issues related to discrimination and bias in genetics research. The aim is to be better informed and more inclusive in our research.
+<br><br><br>
+Usually, we hold hybrid meetings once a month in the meeting room 
+<a href="https://www.au.dk/om/organisation/find-au/bygningskort?b=2641" target="_blank" rel="noopener noreferrer" title="The National Centre for Register-based Research">(2641-130)</a> at the National Centre for Register-based Research, that are live streamed via Microsoft Teams. These meetings are usually scheduled on a Friday, and last one hour. Pre-reading materials are circulated among all participants well in advance, and slides, additional resources, etc. are send out shortly after each meeting.
+You can read more about our aims under <a href="about.html" title="About the Anti-Discrimination Working Group">About</a>.
+<br><br><br>
 
+## Join us!
+<br>
+Please join us at our next meeting, which will be held on **August 18, 2023**.
+If you would like to be invited to future hybrid meetings, receive reminder emails, and other information contact us!
