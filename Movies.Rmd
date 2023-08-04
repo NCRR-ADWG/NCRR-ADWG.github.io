@@ -1,17 +1,22 @@
 ---
 title: "Movies"
 ---
-### About the troubling history and legacy of eugenics
+### About the troubling history and legacy of eugenics {.unlisted}
 <br>
 <a href="https://www.dr.dk/drtv/episode/de-aandssvages-historie_-de-ustyrlige_113803" target="_blank" rel="noopener noreferrer" title="De aandsvages historie: De ustyrlige">_De aandsvages historie: De ustyrlige_</a>, a DR series (only in Danish)
+<br><br>
 <a href="https://www.imdb.com/title/tt5686132/" target="_blank" rel="noopener noreferrer" title="The Immortal Life of Henrietta Lacks">_The Immortal Life of Henrietta Lacks_</a>, an HBO movie from 2017.
 <br><br><br>
 
-### About gene editing
+### About gene editing {.unlisted}
 <br>
 <a href="https://www.imdb.com/title/tt9612680/" target="_blank" rel="noopener noreferrer" title="Human Nature">_Human Nature_</a>, a Documentary about CRISPR from 2019.
+<br><br>
 <a href="https://www.netflix.com/dk-en/title/80208910" target="_blank" rel="noopener noreferrer" title="Netflix's Unnatural selection">_Unnatural selection_</a>, a Netflix Documentary from 2019.
+<br><br>
 <a href="https://www.imdb.com/title/tt0119177/" target="_blank" rel="noopener noreferrer" title="GATTACA">_GATTACA_</a>, a science fiction thriller drama from 1997.
+<br><br>
 <a href="https://www.imdb.com/title/tt0083658/" target="_blank" rel="noopener noreferrer" title="Blade Runner">_Blade Runner_</a>, a science fiction film from 1982.
+<br><br>
 <a href="https://www.imdb.com/title/tt0387808/" target="_blank" rel="noopener noreferrer" title="Idiocracy">_Idiocracy_</a>, a science fiction comedy from 2006.
 <br><br><br>
