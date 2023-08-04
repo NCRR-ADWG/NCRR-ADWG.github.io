@@ -2,8 +2,7 @@
 title: "Books"
 output:
   html_document:
-    toc: true # Adding a table of contents
-    toc_depth: 1 # Defining the depth
+    toc: false # Adding no table of contents
 ---
 ## English books 
 <br>
