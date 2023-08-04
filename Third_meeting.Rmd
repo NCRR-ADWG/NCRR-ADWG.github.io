@@ -1,5 +1,9 @@
 ---
 title: "Third meeting - Wednesday 23rd June 2023"
+output:
+  html_document:
+    toc: true # Adding a table of contents
+    toc_depth: 1 # Defining the depth
 ---
 
 ## Embryonic Screening

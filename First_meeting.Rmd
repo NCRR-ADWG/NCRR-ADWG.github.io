@@ -1,5 +1,9 @@
 ---
 title: "Kick-off meeting - Friday 31st March 2023"
+output:
+  html_document:
+    toc: true # Adding a table of contents
+    toc_depth: 1 # Defining the depth
 ---
 
 ## The misappropriation of genetics

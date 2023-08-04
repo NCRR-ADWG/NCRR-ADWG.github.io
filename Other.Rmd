@@ -1,13 +1,17 @@
 ---
 title: "Other interesting links"
+output:
+  html_document:
+    toc: true # Adding a table of contents
+    toc_depth: 1 # Defining the depth
 ---
 
-### About the misappropiation of genetics {.unlisted}
+### About the misappropiation of genetics 
 <br>
 A brief <a href="https://www.science.org/content/article/it-s-toxic-place-how-online-world-white-nationalists-distorts-population-genetics" target="_blank" rel="noopener noreferrer" title="It's a toxic place">interview with Jedidiah Carlson</a> in Science.
 <br><br><br>
 
-### About the troubling history and legacy of eugenics {.unlisted}
+### About the troubling history and legacy of eugenics 
 <br>
 <a href="https://sundogbaelt.dk/forbindelser/storebaelt/sprogo/pigehjemmet-pa-sprogo/" target="_blank" rel="noopener noreferrer" title="Pigehjemmet på Sprogø">Pigehjemmet på Sprogø</a> (only in Danish)
 <br><br>
@@ -16,13 +20,13 @@ A brief <a href="https://www.science.org/content/article/it-s-toxic-place-how-on
 <a href="https://sum.dk/nyheder/2022/september/danmark-og-groenland-indgaar-aftale-om-udredning-af-%E2%80%9Dspiralsagen%E2%80%9D" target="_blank" rel="noopener noreferrer" title="Spiralsagen">Spiralsagen</a> (only in Danish)
 <br><br><br>
 
-### About polygenic embryo screening {.unlisted}
+### About polygenic embryo screening 
 <a href=https://learn.genetics.utah.edu/content/disorders/whatispgt" target="_blank" rel="noopener noreferrer" title="What is Preimplantation Genetic Testing">What is Preimplantation Genetic Testing?</a>
 <br><br>
 <a href="https://ispg.net/wp-content/uploads/2021/05/2021-May-ISPG-Ethics-Advisory-Embryo-Screening.pdf" target="_blank" rel="noopener noreferrer" title="Advisory on the Use of Polygenic Risk Scores to Screen Embryos for Adult Mental Conditions">ISPG statement: Advisory on the Use of Polygenic Risk Scores to Screen Embryos for Adult Mental Conditions</a>
 <br><br><br>
 
-### More from Jedidiah Carlson {.unlisted}
+### More from Jedidiah Carlson 
 <a href="https://twitter.com/JedMSP" target="_blank" rel="noopener noreferrer" title="Jedidiah Carlson's Twitter account">@JedMSP</a>
 <br><br><br>
 

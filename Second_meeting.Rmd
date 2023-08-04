@@ -1,5 +1,9 @@
 ---
 title: "Second meeting - Wednesday 17th May 2023"
+output:
+  html_document:
+    toc: true # Adding a table of contents
+    toc_depth: 1 # Defining the depth
 ---
 
 ## History of eugenics

@@ -1,8 +1,12 @@
 ---
 title: "Journal Articles"
+output:
+  html_document:
+    toc: true # Adding a table of contents
+    toc_depth: 1 # Defining the depth
 ---
 
-### About the misappropiation of genetics {.unlisted}
+### About the misappropiation of genetics 
 <br>
 <a href="http://dx.doi.org/10.3998/ptb.6959004.0009.012" target="_blank" rel="noopener noreferrer" title="Are Clusters Races?">_Are Clusters Races? A Discussion of the Rhetorical Appropriation of Rosenberg et al.'s 'Genetic Structure of Human Populations'_</a>, Melissa Wills, 2017.
 <br><br>
@@ -13,12 +17,12 @@ title: "Journal Articles"
 <a href="https://doi.org/10.3389/fgene.2023.1044555" target="_blank" rel="noopener noreferrer" title="Ancestry: How researchers use it and what they mean by it">_Ancestry: How researchers use it and what they mean by it'_</a>, Bege Dauda et al., 2023.
 <br><br><br>
 
-### About the troubling history and legacy of eugenics {.unlisted}
+### About the troubling history and legacy of eugenics 
 <br>
 <a href="https://doi.org/10.1177/0957154X18808666" target="_blank" rel="noopener noreferrer" title="Eugenic concerns, scientific practices?">_Eugenic concerns, scientific practices: international relations in the establishment of psychiatric genetics in Germany, Britain, the USA and Scandinavia, c.1910-60_</a>, Volker Roelcke et al., 2018.
 <br><br><br>
 
-### About polygenic embryo screening {.unlisted}
+### About polygenic embryo screening 
 <br>
 <a href="https://doi.org/10.1111/aogs.13831" target="_blank" rel="noopener noreferrer" title="Preimplantation genetic testing legislation and accessibility in the Nordic countries">_Preimplantation genetic testing legislation and accessibility in the Nordic countries_</a>, Julius Hreinsson et al., 2020.
 <br><br>
