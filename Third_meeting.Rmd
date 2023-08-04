@@ -2,8 +2,7 @@
 title: "Third meeting - Wednesday 23rd June 2023"
 output:
   html_document:
-    toc: true # Adding a table of contents
-    toc_depth: 1 # Defining the depth
+    toc: false # Adding no table of contents
 ---
 
 ## Embryonic Screening
@@ -55,7 +54,7 @@ We highly recommend reading the review <a href="https://doi.org/10.1016/s2215-03
 You can find the slides (in PDF format) used in connection to this meeting <a href="Slides/ADWG_meeting3_embryonic_screening_part1.pdf" target="_blank" rel="noopener noreferrer" title="ADWG meeting - Embryonic screening">here</a>.
 <br><br><br>
 
-### Further information:
+## Further information:
 <br>
 
 * <a href="https://www.polygenicembryo.org/" target="_blank" rel="noopener noreferrer" title="Polygenic Embryo ELSI Research">Polygenic Embryo ELSI Research - The 'PEER' Group</a>.

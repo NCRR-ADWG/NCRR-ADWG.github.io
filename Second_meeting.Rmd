@@ -2,8 +2,7 @@
 title: "Second meeting - Wednesday 17th May 2023"
 output:
   html_document:
-    toc: true # Adding a table of contents
-    toc_depth: 1 # Defining the depth
+    toc: false # Adding no table of contents
 ---
 
 ## History of eugenics
@@ -23,11 +22,11 @@ Finally, we discussed the legacy of eugenics in (psychiatric) genetics and wheth
 You can find the slides (in PDF format) used in connection to this meeting <a href="Slides/ADWG_meeting2_eugenics_history.pdf" target="_blank" rel="noopener noreferrer" title="ADWG meeting - History of eugenics">here</a>.
 <br><br><br>
 
-### Merriam-Webster dictionary: Eugenics
+## Merriam-Webster dictionary: Eugenics
 <a href="https://www.merriam-webster.com/dictionary/eugenics" target="_blank" rel="noopener noreferrer" title="Merriam-Webster Dictionary Definition of Eugenics">_Eugenics (noun) : the practice or advocacy of controlled selective breeding of human populations (as by sterilization) to improve the population's genetic composition_</a>
 <br><br><br>
 
-### Further information:
+## Further information:
 <br>
 
 * <a href="https://www.adamrutherford.com/eugenics" target="_blank" rel="noopener noreferrer" title="Adam Rutherford - Control">_Control - The dark history and troubling present of eugenics_</a>, by Adam Rutherford.

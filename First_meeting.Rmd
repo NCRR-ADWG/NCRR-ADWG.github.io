@@ -2,8 +2,7 @@
 title: "Kick-off meeting - Friday 31st March 2023"
 output:
   html_document:
-    toc: true # Adding a table of contents
-    toc_depth: 1 # Defining the depth
+    toc: false # Adding no table of contents
 ---
 
 ## The misappropriation of genetics
@@ -18,7 +17,7 @@ The first meeting ended with a discussion about how we as researchers can decrea
 You can find the slides (in PDF format) used in connection to this meeting <a href="Slides/ADWG_meeting1_misappropriation_genetics.pdf" target="_blank" rel="noopener noreferrer" title="ADWG meeting - The misappropriation of genetics">here</a>.
 <br><br><br>
 
-### Further reading:
+## Further reading:
 <br>
 
 * A brief <a href="https://www.science.org/content/article/it-s-toxic-place-how-online-world-white-nationalists-distorts-population-genetics" target="_blank" rel="noopener noreferrer" title="It's a toxic place">interview with Jedidiah Carlson</a> in Science.

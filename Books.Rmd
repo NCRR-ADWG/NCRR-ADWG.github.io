@@ -4,10 +4,8 @@ output:
   html_document:
     toc: false # Adding no table of contents
 ---
-## English books 
-<br>
 
-### About the troubling history and legacy of eugenics 
+## About the troubling history and legacy of eugenics 
 <br>
 <a href="https://www.adamrutherford.com/eugenics" target="_blank" rel="noopener noreferrer" title="Adam Rutherford - Control">Control - The dark history and troubling present of eugenics</a>, Adam Rutherford, 2022.
 <br><br>
