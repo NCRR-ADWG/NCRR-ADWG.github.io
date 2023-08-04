@@ -1,5 +1,8 @@
 ---
 title: "Join us!"
+output:
+  html_document:
+    toc: false # Adding no table of contents
 ---
 
 If you would like to be invited to future hybrid meetings, receive reminder emails, and other information contact us!
