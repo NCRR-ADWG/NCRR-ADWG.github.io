@@ -21,6 +21,16 @@ navbar:
       menu:
       - text: "Movies"
         href: Movies.html
+      - text: "Books"
+        href: Books.html
+      - text: "Podcasts"
+        href: Podcasts.html
+      - text: "Journal Articles"
+        href: Journal_articles.html
+      - text: "Other links"
+        href: Other.html
+    - text: "Join us!"
+      href: contact.html
 output:
   html_document:
     theme: cosmo # Adding a site theme
