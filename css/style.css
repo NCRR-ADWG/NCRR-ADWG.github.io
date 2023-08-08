@@ -129,7 +129,6 @@ i.e. the link that show which section that is currently active*/
 }
 
 .navbar-default .navbar-nav>.open>a,
-.navbar-default .navbar-nav>.active>a,
 a.dropdown-toggle:hover {
   background-color: #004369 !important;
   color: #F1F1E6;
