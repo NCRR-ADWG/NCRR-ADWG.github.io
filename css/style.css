@@ -150,7 +150,7 @@ i.e. the link that show which section that is currently active*/
 /* Dropdown menu colour*/
 .dropdown-menu {
   background-color: #004369 !important;
-  color: #F1F1E6;
+  color: #F1F1E6 !important;
 }
 
 /* Dropdown menu hover colour*/
