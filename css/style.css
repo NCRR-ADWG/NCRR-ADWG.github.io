@@ -122,38 +122,41 @@ i.e. the link that show which section that is currently active*/
 
 /* ------------ Adjusting the navbar ------------ */
 
-.navbar-default {
+/* Navigantion bar colour*/
+.navbar {
   color: #F1F1E6;
   background-color: #001737;
   font-size: 21px;
 }
 
-.navbar-default .navbar-nav>.open>a,
-a.dropdown-toggle:hover {
-  background-color: #004369 !important;
+/* Colour of navbar links when hovered*/
+.navbar-nav>li>a:hover {
+  background-color: #01949A !important;
+  color: #F1F1E6;
+}
+
+/* Colour of active navbar links*/
+.navbar-nav>.active>a {
+  background-color: #01949A !important;
+  color: #F1F1E6;
+}
+
+/* Colour of opened dropdown menu*/
+.navbar .navbar-nav>.open>a {
+  background-color: #642E45 !important;
   color: #F1F1E6;
 }
 
 /* Dropdown menu colour*/
-.navbar-default .dropdown-menu {
+.dropdown-menu {
   background-color: #004369 !important;
   color: #F1F1E6;
 }
 
 /* Dropdown menu hover colour*/
-.navbar-default .dropdown-menu>li>a:hover {
-  background-color: #004369 !important;
+.dropdown-menu>li>a:hover {
+  background-color: #01949A !important;
   color: #F1F1E6;
-}
-
-/* Navbar Links when hovered*/
-.navbar-default .dropdown-menu>.active>a
-.navbar-default .navbar-nav>.active>a:hover, 
-.navbar-default .navbar-nav:hover, 
-.navbar-default .navbar-nav>li>a:hover, 
-a.navbar-brand:hover {
-  color: #F1F1E6 !important;
-  background-color: #004369;
 }
 
 /* ------------- Whole Document ---------------- */
@@ -177,6 +180,10 @@ body {
 html {
   margin: 0;
   padding: 0;
+}
+
+html, body, .footerPushDown {
+  height: 100%;
 }
 
 /* ------------------- Links ------------------- */
