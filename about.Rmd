@@ -6,18 +6,20 @@ title: "About the Anti-Discrimination Working Group"
 <br>
 We are psychiatric genetics researchers at Aarhus University, based at the
 <a href="https://clin.au.dk/" target="_blank" rel="noopener noreferrer" title="The Department of Clinical Medicine">Department of Clinical Medicine</a> and 
-<a href="https://ncrr.au.dk/" target="_blank" rel="noopener noreferrer" title="The National Centre for Register-based Research">the National Centre for Register-based Research (NCRR)</a>. We started an Anti-Discrimination Working Group in the spring of 2023 to discuss issues related to discrimination and bias in genetics research. The aim is to be better informed and more inclusive in our research.
+<a href="https://ncrr.au.dk/" target="_blank" rel="noopener noreferrer" title="The National Centre for Register-based Research">the National Centre for Register-based Research (NCRR)</a>. We started an Anti-Discrimination Working Group in the spring of 2023 to discuss issues related to discrimination and bias in human genetics and psychiatry research. The aim is to be better informed and more inclusive in our research.
 <br><br><br>
  
 ## What are our aims?
 <br>
-Inspired by the <a href="https://www.kcl.ac.uk/mental-health-and-psychological-sciences/about/departments/social-genetic-and-developmental-psychiatry" target="_blank" rel="noopener noreferrer" title="Social, Genetic & Developmental Psychiatry Centre, King's College London">Social, Genetic & Developmental Psychiatry Centre</a>’s Anti-Racism Group at King's College London, we defined the following aims
+We were inspired by the <a href="https://www.kcl.ac.uk/mental-health-and-psychological-sciences/about/departments/social-genetic-and-developmental-psychiatry" target="_blank" rel="noopener noreferrer" title="Social, Genetic & Developmental Psychiatry Centre, King's College London">Social, Genetic & Developmental Psychiatry Centre</a>’s Anti-Racism Working Group at King's College London. Based on the goals of their group, we defined the following aims:
 
 * To strive for **equality**
 * To strive for **diversity**
 * To be **open** and **transparent**
-* To be mindful that **the topics we discuss may be triggering and upsetting**, impacting on people in different ways.
-    + This is not a passive intellectual topic. It takes time to install the correct support and find solutions. **This is a learning process**
+* To be mindful that **the topics we discuss may be triggering and upsetting**, impacting on people in different ways.  
+
+<space><space><space><space><font size = 3>This is not a passive intellectual topic. It takes time to install the correct support and find solutions. **This is a learning process**</font>
+
 * To discuss ongoing issues with **discrimination in research**
 * To recognize **harmful structures and practices** of discrimination in research
 * To **advocate for changes** that promote equality in research
@@ -25,10 +27,14 @@ Inspired by the <a href="https://www.kcl.ac.uk/mental-health-and-psychological-s
 
 ## Covered topics
 <br>
-So far, we have covered the topics 
+So far, we have covered the following topics:
+<br><br>
 <a href="First_meeting.html" title="Kick-off meeting - Friday 31st March 2023">__The misappropriation of genetics research__</a>, 
-<a href="Second_meeting.html" title="Second meeting - Wednesday 17th May 2023">__The history of eugenics as it relates to genetic research__</a>,
-and <a href="Third_meeting.html" title="Third meeting - Wednesday 23rd June 2023">__Polygenic embryo screening__</a>.
+<br>
+<a href="Second_meeting.html" title="Second meeting - Wednesday 17th May 2023">__The history of eugenics as it relates to genetic research__</a>, and
+<br>
+<a href="Third_meeting.html" title="Third meeting - Wednesday 23rd June 2023">__Polygenic embryo screening__</a>.
+<br><br>
 You can find a summary, slides and further information about the different meetings under the tab **Meetings**.
 <br><br><br>
 
@@ -45,5 +51,5 @@ Then please do not hesitate to contact us!
 
 ## Join us!
 <br>
-Please join us at our next meeting, which will be held on **August 18, 2023**.
+Please join us for our next meeting, which will be held on **August 18, 2023**.
 If you would like to be invited to future hybrid meetings, receive reminder emails, and other information <a href="contact.html" title="Join us!">**contact** us</a>!
