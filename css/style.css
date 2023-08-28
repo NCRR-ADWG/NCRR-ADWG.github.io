@@ -148,13 +148,19 @@ i.e. the link that show which section that is currently active*/
 }
 
 /* Dropdown menu colour*/
-.dropdown-menu {
+.navbar .dropdown-menu {
   background-color: #004369 !important;
   color: #F1F1E6 !important;
 }
 
 /* Dropdown menu hover colour*/
 .dropdown-menu>li>a:hover {
+  background-color: #01949A !important;
+  color: #F1F1E6;
+}
+
+/* Colour of active link in dropdown menu*/
+.dropdown-menu>.active>a {
   background-color: #01949A !important;
   color: #F1F1E6;
 }
