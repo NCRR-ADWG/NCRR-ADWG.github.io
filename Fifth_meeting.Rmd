@@ -1,0 +1,31 @@
+---
+title: "Fourth meeting - Friday 22nd September 2023"
+output:
+  html_document:
+    toc: false # Adding no table of contents
+---
+
+## Discussion - Embryonic Screening
+<br>
+In the fifth ADWG meeting we will continue the discussion about the implementation and use of embryonic screening and the concerns that arise in this connection. 
+
+
+<br>
+We highly recommend reading the review <a href="https://doi.org/10.1016/s2215-0366(22)00157-2" target="_blank" rel="noopener noreferrer" title="Concerns about the use of polygenic embryo screening for psychiatric and cognitive traits">_Concerns about the use of polygenic embryo screening for psychiatric and cognitive traits_</a>, published by Todd Lencz et al. in Lancet Psychiatry in 2022.
+<br><br>
+
+You can find the slides (in PDF format) used in connection to this meeting <a href="Slides/ADWG_meeting3_embryonic_screening_part2.pdf" target="_blank" rel="noopener noreferrer" title="ADWG meeting - Embryonic screening">here</a>.
+<br><br><br>
+
+## Further information:
+<br>
+
+* <a href="https://www.polygenicembryo.org/" target="_blank" rel="noopener noreferrer" title="Polygenic Embryo ELSI Research">Polygenic Embryo ELSI Research - The 'PEER' Group</a>.
+* <a href="https://doi.org/10.1111/aogs.13831" target="_blank" rel="noopener noreferrer" title="Preimplantation genetic testing legislation and accessibility in the Nordic countries">_Preimplantation genetic testing legislation and accessibility in the Nordic countries_</a>, Julius Hreinsson et al., Acta Obstetricia et Gynecologica Scandinavica, 2020.
+* <a href="https://doi.org/10.1111/aogs.13882" target="_blank" rel="noopener noreferrer" title="Personalized medicine for the embryo and the fetus - Options in modern genetics influence preconception and prenatal choices">_Personalized medicine for the embryo and the fetus - Options in modern genetics influence preconception and prenatal choices_</a>, Hans Jakob Ingerslev et al., Acta Obstetricia et Gynecologica Scandinavica, 2020.
+* <a href="https://doi.org/10.1111/aogs.14052" target="_blank" rel="noopener noreferrer" title="National data on the early clinical use of non-invasive prenatal testing in public and private healthcare in Denmark 2013-2017">_National data on the early clinical use of non-invasive prenatal testing in public and private healthcare in Denmark 2013-2017_</a>, Ida C.B. Lund et al., Acta Obstetricia et Gynecologica Scandinavica, 2020.
+* <a href="https://doi.org/10.1002/pd.6088" target="_blank" rel="noopener noreferrer" title="Patients' choices and opinions on chorionic villous sampling and non-invasive alternatives for prenatal testing following preimplantation genetic testing for hereditary disorders: A cross-sectional questionnaire study">_Patients' choices and opinions on chorionic villous sampling and non-invasive alternatives for prenatal testing following preimplantation genetic testing for hereditary disorders: A cross-sectional questionnaire study_</a>, Christian L.F. Toft et al., Prenatal Diagnosis, 2022.
+
+
+
+
