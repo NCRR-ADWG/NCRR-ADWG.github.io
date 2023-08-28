@@ -165,7 +165,7 @@ i.e. the link that show which section that is currently active*/
 }
 
 /* Colour of active link in dropdown menu*/
-.dropdown-menu>li>a>.active {
+.dropdown-menu>.active>li>a {
   background-color: #01949A !important;
   color: #F1F1E6;
 }
