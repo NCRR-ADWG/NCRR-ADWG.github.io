@@ -2,6 +2,7 @@
 title: "Equality and diversity in research"
 output:
   html_document:
+    toc: false # Adding no table of contents
     includes:
       in_header: 
       - include_favicon.html # Inluding a favicon

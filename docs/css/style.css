@@ -1,4 +1,4 @@
-@import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,400;0,700;1,400&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100;0,400;0,700;1,400&display=swap');
 
 /* ------------------- Colors -------------------
 Teal: #01949A
@@ -10,6 +10,73 @@ Dark Grey: #6C7888
 Berry: #642E45
 Beige: #F1F1E6
 */
+
+/* ------------- Whole Document ---------------- */
+
+/* Apply the Roboto font to the body's text */
+*{
+  margin:0;
+  padding: 0;
+}
+
+body {
+  margin: 0;
+  padding: 0;
+  color: #324B4C;
+  font-family: 'Roboto', 'Source Sans Pro', Helvetica, sans-serif;
+  font-size: 19px;
+  font-weight: normal;
+}
+
+html {
+  margin: 0;
+  padding: 0;
+}
+
+html, body, .footerPushDown {
+  height: 100%;
+}
+
+/* ------------------- Links ------------------- */
+/* Change the appearance of links*/
+a {
+  color: #01949A;
+  text-decoration: none;
+}
+/*Change the appearance of links before visiting*/
+a:link {
+  color: #01949A;
+  text-decoration: none;
+}
+
+/* Change the appearance of links after visitig*/
+a:visited {
+  color: #324B4C;
+  text-decoration: none;
+}
+
+/* Change the appearance of links when hovering over them*/
+a:hover {
+  color: #004369;
+}
+
+/* ------------ Adding white space ------------ */
+
+.title {
+  margin-top: 2em !important;
+  margin-bottom: 0.75em;
+}
+
+/* ---------- Including the ADWG-logo ---------- */
+.ADWG-logo {
+  margin-top: 20px;
+  background-image: url("../images/Logo_with_Initials.png");
+  height: 200px;
+  background-size: contain;
+  background-position: right;
+  background-repeat: no-repeat;
+}
+
 
 /* --- Hero image at the top of the homepage --- */
 
@@ -51,37 +118,145 @@ Beige: #F1F1E6
 
 /* ------------ Including a footer ------------ */
 
+pg-footer {
+  font-family: 'Roboto', 'Source Sans Pro', Helvetica, sans-serif;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  position: absolute;
+}
+
 .footer {
-  position:absolute;
-  margin: 2em 0 0 0;
-  padding: 0;
-  height: 100px;
-  background-size: cover;
   background-color: #001737;
-  background-position: center center;
-  font-size: 16px;
-  color: #6C7888;
-  text-align: center;
+  color: #F1F1E6;
+  font-size: 17px;
+  font-weight: 100;
+}
+
+.footer-wave-svg {
+  background-color: transparent;
+  display: block;
+  height: 30px;
+  position: relative;
+  top: -1px;
   width: 100%;
-  font-weight: 300;
-  justify-content: center;
-  align-items: center;
 }
 
-.footer.logo {
-  width: 25px;
-  margin: 0px !important;
+.footer-content {
+  margin-left: auto;
+  margin-right: auto;
+  max-width: 90%;
+  padding: 30px 15px 40px;
+  position: relative;
+  display: flex;
 }
 
-.ADWG-footer {
-  text-align: center;
-  font-size: 16px;
+.footer-content-column{
+  box-sizing: border-box;
+  float: left;
+  padding-left: 10px;
+  padding-right: 10px;
+  width: 100%;
+  color: #F1F1E6;
+}
+
+.footer-content-column ul li a{
+  color: #F1F1E6;
+  text-decoration: none;
+}
+
+.footer-logo-link {
+  display: inline-block;
+}
+
+.footer-menu {
+  margin-top: 30px;
+}
+
+.footer-menu-name {
+  color: #01949A;
+  font-size: 15px;
+  font-weight: 400;
+  letter-spacing: .1em;
+  line-height: 18px;
+  margin-bottom: 0;
+  margin-top: 0;
   text-transform: uppercase;
 }
 
-/* Getting rid of extra space after footer*/
-.tocify-extend-page {
-  height: 0px !important; 
+.footer-menu-list {
+  list-style: none;
+  margin-bottom: 0;
+  margin-top: 10px;
+  padding-left: 0;
+}
+.footer-menu-list li{
+  margin-top: 5px;
+}
+
+.footer-contact-button {
+  background-color: #01949A;
+  border-radius: 20px;
+  color: #F1F1E6;
+  display: inline-block;
+  font-size: 15px;
+  font-weight: 700;
+  letter-spacing: .1em;
+  line-height: 20px;
+  padding: 12px 30px;
+  margin: 0 10px 10px 0;
+  text-decoration: none;
+}
+
+.footer-contact-button:link{
+  color: #F1F1E6;
+  text-decoration: none;
+}
+
+.footer-contact-button:hover{
+  background-color: #F1F1E6;
+  color: #001737;
+}
+
+.footer-adress {
+  line-height: 1;
+  margin-top: 30px;
+}
+
+.footer-copyright {
+  background-color: #004369;
+  color: #F1F1E6;
+  padding: 15px 30px;
+  text-align: center;
+}
+
+.footer-copyright-wrapper {
+  margin-left: auto;
+  margin-right: auto;
+  max-width: 1200px;
+}
+
+.footer-copyright-text {
+  color: #F1F1E6;
+  font-size: 15px;
+  font-weight: 100;
+  line-height: 18px;
+  margin-bottom: 0;
+  margin-top: 0;
+}
+
+.footer-copyright-link {
+  color: #F1F1E6;
+  text-decoration: none;
+}
+.footer-copyright-link:link {
+  color: #F1F1E6;
+  text-decoration: none;
+}
+
+.footer-copyright-link:hover {
+  color: #F1F1E6;
+  text-decoration: none;
 }
 
 /* ------- Adjusting the table of content ------- */
@@ -168,61 +343,6 @@ i.e. the link that show which section that is currently active*/
 .dropdown-menu>.active>li>a {
   background-color: #01949A !important;
   color: #F1F1E6;
-}
-
-/* ------------- Whole Document ---------------- */
-
-/* Apply the Roboto font to the body's text */
-*{
-  margin:0;
-  padding: 0;
-  box-sizing: border-box;
-}
-
-body {
-  margin: 0;
-  padding: 0;
-  color: #324B4C;
-  font-family: 'Roboto', 'Source Sans Pro', Helvetica, sans-serif;
-  font-size: 19px;
-  font-weight: normal;
-}
-
-html {
-  margin: 0;
-  padding: 0;
-}
-
-html, body, .footerPushDown {
-  height: 100%;
-}
-
-/* ------------------- Links ------------------- */
-/* Change the appearance of links*/
-a {
-  color: #01949A;
-}
-
-/* Change the appearance of links when hovering over them*/
-a:hover {
-  color: #004369;
-}
-
-/* ------------ Adding white space ------------ */
-
-.title {
-  margin-top: 2em !important;
-  margin-bottom: 0.75em;
-}
-
-/* ---------- Including the ADWG-logo ---------- */
-.ADWG-logo {
-  margin-top: 20px;
-  background-image: url("../images/Logo_with_Initials.png");
-  height: 200px;
-  background-size: contain;
-  background-position: right;
-  background-repeat: no-repeat;
 }
 
 

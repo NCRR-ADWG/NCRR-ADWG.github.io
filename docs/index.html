@@ -29,9 +29,6 @@
        h6 {font-size: 12px;}
        code {color: inherit; background-color: rgba(0, 0, 0, 0.04);}
        pre:not([class]) { background-color: white }</style>
-<script src="site_libs/jqueryui-1.13.2/jquery-ui.min.js"></script>
-<link href="site_libs/tocify-1.9.1/jquery.tocify.css" rel="stylesheet" />
-<script src="site_libs/tocify-1.9.1/jquery.tocify.js"></script>
 <script src="site_libs/navigation-1.1/tabsets.js"></script>
 <link href="site_libs/highlightjs-9.12.0/textmate.css" rel="stylesheet" />
 <script src="site_libs/highlightjs-9.12.0/highlight.js"></script>
@@ -236,75 +233,6 @@ $(document).ready(function () {
 
 
 
-<style type="text/css">
-
-#TOC {
-  margin: 25px 0px 20px 0px;
-}
-@media (max-width: 768px) {
-#TOC {
-  position: relative;
-  width: 100%;
-}
-}
-
-@media print {
-.toc-content {
-  /* see https://github.com/w3c/csswg-drafts/issues/4434 */
-  float: right;
-}
-}
-
-.toc-content {
-  padding-left: 30px;
-  padding-right: 40px;
-}
-
-div.main-container {
-  max-width: 1200px;
-}
-
-div.tocify {
-  width: 20%;
-  max-width: 260px;
-  max-height: 85%;
-}
-
-@media (min-width: 768px) and (max-width: 991px) {
-  div.tocify {
-    width: 25%;
-  }
-}
-
-@media (max-width: 767px) {
-  div.tocify {
-    width: 100%;
-    max-width: none;
-  }
-}
-
-.tocify ul, .tocify li {
-  line-height: 20px;
-}
-
-.tocify-subheader .tocify-item {
-  font-size: 0.90em;
-}
-
-.tocify .list-group-item {
-  border-radius: 0px;
-}
-
-.tocify-subheader {
-  display: inline;
-}
-.tocify-subheader .tocify-item {
-  font-size: 0.95em;
-}
-
-</style>
-
-
 
 </head>
 
@@ -312,16 +240,6 @@ div.tocify {
 
 
 <div class="container-fluid main-container">
-
-
-<!-- setup 3col/9col grid for toc_float and main content  -->
-<div class="row">
-<div class="col-xs-12 col-sm-4 col-md-3">
-<div id="TOC" class="tocify">
-</div>
-</div>
-
-<div class="toc-content col-xs-12 col-sm-8 col-md-9">
 
 
 
@@ -443,16 +361,105 @@ future hybrid meetings, receive reminder emails, and other information
 us</strong></a>!</p>
 </div>
 
-<div class="footer">
-  <p class="ADWG-footer">&copy; Copyright 2023 ADWG. All rights reserved. </p>
-  <p style="text-aline: center;"> 
-    <a href="https://github.com/NCRR-ADWG/NCRR-ADWG.github.io" class="fa fa-github"></a>
-  </p>
-</div>
+<div class="pg-footer">
+    <footer class="footer">
+      <svg class="footer-wave-svg" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 100" preserveAspectRatio="none">
+        <path fill="#642E45" d="M851.8,100c125,0,288.3-45,348.2-64V0H0v44c3.7-1,7.3-1.9,11-2.9C80.7,22,151.7,10.8,223.5,6.3C276.7,2.9,330,4,383,9.8 c52.2,5.7,103.3,16.2,153.4,32.8C623.9,71.3,726.8,100,851.8,100z"></path>
+      </svg>
+      <div class="footer-content">
+        <div class="footer-content-column">
+          <div>
+            <a class="footer-logo-link" href="index.html">
+              <img style="margin:0 0 0 2px;" width="100" height="100" src = images/Plain_logo.png>
+            </a>
+          </div>
+          <div class="footer-menu">
+            <h2 class="footer-menu-name"> ADWG</h2>
+            <ul id="menu-ADWG" class="footer-menu-list">
+              <li>
+                <a href="about.html">About</a>
+              </li>
+              <li>
+                <a href="contact.html">Join us!</a>
+              </li>
+            </ul>
+          </div>
+        </div>
+        <div class="footer-content-column">
+          <div class="footer-menu">
+            <h2 class="footer-menu-name">Topics</h2>
+            <ul id="menu-topics" class="footer-menu-list">
+              <li>
+                <a href="First_meeting.html">The misappropriation of genetics</a>
+              </li>
+              <li>
+                <a href="Second_meeting.html">The History of Eugenics</a>
+              </li>
+              <li>
+                <a href="Third_meeting.html">Embyonic Screening</a>
+              </li>
+            </ul>
+          </div>
+        </div>
+        <div class="footer-content-column">
+          <div class="footer-menu">
+            <h2 class="footer-menu-name">Resources</h2>
+            <ul id="menu-resources" class="footer-menu-list">
+              <li>
+                <a href="Movies.html">Movies</a>
+              </li>
+              <li>
+                <a href="Books.html">Books</a>
+              </li>
+              <li>
+                <a href="Podcasts.html">Podcasts</a>
+              </li>
+              <li>
+                <a href="Journal_articles.html">Journal Articles</a>
+              </li>
+              <li>
+                <a href="Other.html">Other resources</a>
+              </li>
+            </ul>
+          </div>
+        </div>
+        <div class="footer-content-column">
+          <div class="footer-menu">
+            <a color="#F1F1E6" class="footer-menu-name" href="contact.html">Join us!</a>
+            <p> You have a question?</p>
+            <p> You want to be added to the mailing list?</p>
+            <a class="footer-contact-button" href="contact.html"> Get in touch </a>
+          </div>
+        </div>
+      </div>
+      <div class="footer-content">
+        <div class="footer-content-column">
+          <div class="footer-adress">
+            <a href="https://www.au.dk/om/organisation/find-au/bygningskort?b=2641">
+              <img style="margin:0 0 0 2px;" width="100" height="100" src = images/map-location-dot-solid.png>
+            </a>
+          </div>
+        </div>
+        <div class="footer-content-column">
+          <p> National Centre for Register-based Research <br>
+            Aarhus BSS <br>
+            Aarhus University <br>
+            Fuglesangs Allé 26 <br>
+            Building R <br>
+            8210 Aarhus V </p>
+        </div>
+      </div>
+      <div class="footer-copyright">
+        <div class="footer-copyright-wrapper">
+          <p class="footer-copyright-text">
+            <a class="footer-copyright-link" href="licence.html"> ©2023. | Anti-Discrimination Working Group. | All rights reserved. </a>
+          </p>
+        </div>
+      </div>
+    </footer>
+  </div>
 
 
-</div>
-</div>
 
 </div>
 
@@ -485,35 +492,6 @@ $(document).ready(function () {
 
 <!-- code folding -->
 
-<script>
-$(document).ready(function ()  {
-
-    // temporarily add toc-ignore selector to headers for the consistency with Pandoc
-    $('.unlisted.unnumbered').addClass('toc-ignore')
-
-    // move toc-ignore selectors from section div to header
-    $('div.section.toc-ignore')
-        .removeClass('toc-ignore')
-        .children('h1,h2,h3,h4,h5').addClass('toc-ignore');
-
-    // establish options
-    var options = {
-      selectors: "h1,h2,h3",
-      theme: "bootstrap3",
-      context: '.toc-content',
-      hashGenerator: function (text) {
-        return text.replace(/[.\\/?&!#<>]/g, '').replace(/\s/g, '_');
-      },
-      ignoreSelector: ".toc-ignore",
-      scrollTo: 0
-    };
-    options.showAndHide = false;
-    options.smoothScroll = true;
-
-    // tocify
-    var toc = $("#TOC").tocify(options).data("toc-tocify");
-});
-</script>
 
 <!-- dynamically load mathjax for compatibility with self-contained -->
 <script>
