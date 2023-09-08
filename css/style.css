@@ -29,6 +29,12 @@ html, body, .footerPushDown {
   height: 100%;
 }
 
+.main-container {
+  max-width: none;
+  margin-left: 250px;
+  margin-right: 250px;
+}
+
 /* ------------------- Links ------------------- */
 /* Change the appearance of links*/
 a {
