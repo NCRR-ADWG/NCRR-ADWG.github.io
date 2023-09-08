@@ -2,7 +2,6 @@
 title: "Equality and diversity in research"
 output:
   html_document:
-    toc: false # Adding no table of contents
     includes:
       in_header: 
       - include_favicon.html # Inluding a favicon
@@ -10,7 +9,7 @@ output:
 ---
 
 is what we aim for.
-<br>
+<br><br><br>
 We are psychiatric genetics researchers at Aarhus University, based at 
 <a href="https://clin.au.dk/" target="_blank" rel="noopener noreferrer" title="The Department of Clinical Medicine">the Department of Clinical Medicine</a> and 
 <a href="https://ncrr.au.dk/" target="_blank" rel="noopener noreferrer" title="The National Centre for Register-based Research">the National Centre for Register-based Research (NCRR)</a>. We started an Anti-Discrimination Working Group in the spring of 2023 to discuss issues related to discrimination and bias in genetics research. The aim is to be better informed and more inclusive in our research.
