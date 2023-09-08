@@ -26,11 +26,13 @@ body {
   font-family: 'Roboto', 'Source Sans Pro', Helvetica, sans-serif;
   font-size: 19px;
   font-weight: normal;
+  width: 100%;
 }
 
 html {
   margin: 0;
   padding: 0;
+  width: 100%;
 }
 
 html, body, .footerPushDown {
@@ -41,23 +43,20 @@ html, body, .footerPushDown {
 /* Change the appearance of links*/
 a {
   color: #01949A;
-  text-decoration: none;
 }
 /*Change the appearance of links before visiting*/
 a:link {
   color: #01949A;
-  text-decoration: none;
 }
 
 /* Change the appearance of links after visitig*/
 a:visited {
-  color: #324B4C;
-  text-decoration: none;
+  color: #004369;
 }
 
 /* Change the appearance of links when hovering over them*/
 a:hover {
-  color: #004369;
+  color: #642E45;
 }
 
 /* ------------ Adding white space ------------ */
@@ -343,13 +342,4 @@ pg-footer {
     padding: 40px 15px 1050px;
     position: relative;
   }
-}
-@media (min-width:801px)  { /* tablet, landscape iPad, lo-res laptops ands desktops */
-
-}
-@media (min-width:1025px) { /* big landscape tablets, laptops, and desktops */
-
-}
-@media (min-width:1281px) { /* hi-res laptops and desktops */
-
 }
