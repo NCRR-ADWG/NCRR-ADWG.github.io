@@ -38,7 +38,7 @@ output:
   html_document:
     theme: cosmo # Adding a site theme
     highlight: textmate # Costumize code highlighting
-    toc: true # Adding a table of contents
+    toc: false # Adding a table of contents
     toc_depth: 3 # Defining the depth
     toc_float:
       collapsed: false
