@@ -14,10 +14,6 @@ Beige: #F1F1E6
 /* ------------- Whole Document ---------------- */
 
 /* Apply the Roboto font to the body's text */
-*{
-  margin:0;
-  padding: 0;
-}
 
 body {
   margin: 0;
@@ -26,12 +22,6 @@ body {
   font-family: 'Roboto', 'Source Sans Pro', Helvetica, sans-serif;
   font-size: 19px;
   font-weight: normal;
-  width: 100%;
-}
-
-html {
-  margin: 0;
-  padding: 0;
   width: 100%;
 }
 
@@ -44,17 +34,17 @@ html, body, .footerPushDown {
 a {
   color: #01949A;
 }
-/*Change the appearance of links before visiting*/
+/* Change the appearance of links before visiting */
 a:link {
   color: #01949A;
 }
 
-/* Change the appearance of links after visitig*/
+/* Change the appearance of links after visiting */
 a:visited {
   color: #004369;
 }
 
-/* Change the appearance of links when hovering over them*/
+/* Change the appearance of links when hovering over them */
 a:hover {
   color: #642E45;
 }
@@ -117,12 +107,13 @@ a:hover {
 
 /* ------------ Including a footer ------------ */
 
-pg-footer {
+.pg-footer {
   font-family: 'Roboto', 'Source Sans Pro', Helvetica, sans-serif;
   bottom: 0;
   left: 0;
   right: 0;
-  position: absolute;
+  float: left;
+  width: 100%;
 }
 
 .footer {
