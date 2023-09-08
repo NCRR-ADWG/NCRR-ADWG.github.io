@@ -5,7 +5,7 @@ output:
     toc: false # Adding no table of contents
 ---
 
-## Discussion - Embryonic Screening
+## Discussion - Embryonic Screening (part 1)
 <br>
 The fourth ADWG meeting will be used to discuss the topic from the last meeting, namely the implementation and use of embryonic screening and the concerns that arise in this connection.
 
@@ -14,7 +14,7 @@ The fourth ADWG meeting will be used to discuss the topic from the last meeting,
 We highly recommend reading the review <a href="https://doi.org/10.1016/s2215-0366(22)00157-2" target="_blank" rel="noopener noreferrer" title="Concerns about the use of polygenic embryo screening for psychiatric and cognitive traits">_Concerns about the use of polygenic embryo screening for psychiatric and cognitive traits_</a>, published by Todd Lencz et al. in Lancet Psychiatry in 2022.
 <br><br>
 
-You can find the slides (in PDF format) used in connection to this meeting <a href="Slides/ADWG_meeting3_embryonic_screening_part2.pdf" target="_blank" rel="noopener noreferrer" title="ADWG meeting - Embryonic screening">here</a>.
+You can find the slides (in PDF format) used in connection to this meeting <a href="Slides/ADWG_meeting4_embryonic_screening_part2.pdf" target="_blank" rel="noopener noreferrer" title="ADWG meeting - Embryonic screening">here</a>.
 <br><br><br>
 
 ## Further information:
