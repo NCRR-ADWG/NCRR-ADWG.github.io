@@ -35,6 +35,7 @@ You can read more about our aims under <a href="about.html" title="About the Ant
 Please join us at our next meeting, which will be held in **October 2023**.
 If you would like to be invited to future hybrid meetings, receive reminder emails, and other information 
 <a href="contact.html" title="Join us!">**contact us**</a>!
+<br><br><br>
 
 ```{r, echo=FALSE}
 htmltools::includeHTML("include_footer.html")
