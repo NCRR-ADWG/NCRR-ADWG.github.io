@@ -32,4 +32,6 @@ output:
 <a href="https://doi.org/10.1111/aogs.14052" target="_blank" rel="noopener noreferrer" title="National data on the early clinical use of non-invasive prenatal testing in public and private healthcare in Denmark 2013-2017">_National data on the early clinical use of non-invasive prenatal testing in public and private healthcare in Denmark 2013-2017_</a>, Ida C.B. Lund et al., 2020.
 <br><br>
 <a href="https://doi.org/10.1002/pd.6088" target="_blank" rel="noopener noreferrer" title="Patients' choices and opinions on chorionic villous sampling and non-invasive alternatives for prenatal testing following preimplantation genetic testing for hereditary disorders: A cross-sectional questionnaire study">_Patients' choices and opinions on chorionic villous sampling and non-invasive alternatives for prenatal testing following preimplantation genetic testing for hereditary disorders: A cross-sectional questionnaire study_</a>, Christian L.F. Toft et al., 2022.
+<br><br>
+<a href="https://www.jstor.org/stable/20696690" target="_blank" rel="noopener noreferrer" title="Genetic selection for deafness: the views of hearing children of deaf adults">_Genetic selection for deafness: the views of hearing children of deaf adults_</a>, C. Mand et al., 2009. 
 <br><br><br>
