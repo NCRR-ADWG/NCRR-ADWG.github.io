@@ -5,16 +5,36 @@ output:
     toc: false # Adding no table of contents
 ---
 
-## Discussion - Embryonic Screening
+## Discussion - Embryonic Screening (part 2)
 <br>
-In the fifth ADWG meeting we will continue the discussion about the implementation and use of embryonic screening and the concerns that arise in this connection. 
+In the fifth ADWG meeting we continued the discussion about the implementation and use of embryonic screening and the concerns that arise in this connection. 
+<br>
+The meeting started with a brief recap of the three thought experiments discussed at the previous meeting (see <a href="Fourth_meeting.html" target="_blank" rel="noopener noreferrer" title="Discussion - Embryonic Screening (part 1)">_recap of fourth meeting_</a> for further information). Afterwards, we turned to some of the more challanging bioethical thought experiments presented in Chapter 40, __Red Lines__, of the book <a href="https://www.simonandschuster.com/books/The-Code-Breaker/Walter-Isaacson/9781982115869" target="_blank" rel="noopener noreferrer" title="The code breaker by Walter Isaacson">_The code breaker: Jennifer Doudna, gene editing, and the future of the human race_</a> written by Walter Isaacson. Note that all users of Det Kgl. Bibliotek are able to read this book online (for free) at <a href="https://soeg.kb.dk/permalink/45KBDK_KGL/1pioq0f/alma99123923577205763" target="_blank" rel="noopener noreferrer" title="Det Kgl. Bibliotek">_kb.dk_</a>.
+<br>
+Even though this book focuses on the concerns that arise in connection to gene editing with CRISPR, the thought experiments are also applicable to genetic screening. 
+<br>
+In this second discussion round, we focused on the thought experiments about physical and psychological traits. First, we considered three scenarios in connection to height:
+* Parents with IMAGe syndrome (stunted growth) caused by a mutation in the CDKN1C gene selecting against the mutation in order for their children to grow to normal height.
+* Parents who just happen to be short selecting an embryo for height in order for their children to grow to normal height
+* Parents of average height selecting an embryo for extra height such that their children will grow to be taller. 
+In this connection, we also discussed the difference between absolute and positional improvements (see below).
+<br>
+Afterwards, we discussed the question __If genetic factors predisposing to psychological disorders could be selected against, would that be a good thing?__, before turning to some ethical issues related to the improvement of cognitive skills.
+<br> 
+We ended the discussion round with some general questions about who is judging you for using embryonic screening methods and some general comments about what influences how we feel about the different scenarios presented during both discussion rounds. 
 
+<br><br><br>
+
+### Absolute vs. positional improvements
+<br>
+_Absolute improvements_ are enhancements that are beneficial to you even if everyone else get's them.  
+_Positional improvements_ are enhancements that are beneficial to you only if nobody else get's the same enhancements. 
 
 <br>
-We highly recommend reading the review <a href="https://doi.org/10.1016/s2215-0366(22)00157-2" target="_blank" rel="noopener noreferrer" title="Concerns about the use of polygenic embryo screening for psychiatric and cognitive traits">_Concerns about the use of polygenic embryo screening for psychiatric and cognitive traits_</a>, published by Todd Lencz et al. in Lancet Psychiatry in 2022.
+We highly recommend reading the review <a href="https://doi.org/10.1016/s2215-0366(22)00157-2" target="_blank" rel="noopener noreferrer" title="Concerns about the use of polygenic embryo screening for psychiatric and cognitive traits">_Concerns about the use of polygenic embryo screening for psychiatric and cognitive traits_</a>, published by Todd Lencz et al. in Lancet Psychiatry in 2022, as well as Chapter 40, __Red Lines__, of the book <a href="https://www.simonandschuster.com/books/The-Code-Breaker/Walter-Isaacson/9781982115869" target="_blank" rel="noopener noreferrer" title="The code breaker by Walter Isaacson">_The code breaker: Jennifer Doudna, gene editing, and the future of the human race_</a> written by Walter Isaacson. Again we want to highlight that all users of Det Kgl. Bibliotek are able to read this book online (for free) at <a href="https://soeg.kb.dk/permalink/45KBDK_KGL/1pioq0f/alma99123923577205763" target="_blank" rel="noopener noreferrer" title="Det Kgl. Bibliotek">_kb.dk_</a>.
 <br><br>
 
-You can find the slides (in PDF format) used in connection to this meeting <a href="Slides/ADWG_meeting3_embryonic_screening_part2.pdf" target="_blank" rel="noopener noreferrer" title="ADWG meeting - Embryonic screening">here</a>.
+You can find the slides (in PDF format) used in connection to this meeting <a href="Slides/ADWG_meeting5_embryonic_screening_part3.pdf" target="_blank" rel="noopener noreferrer" title="ADWG meeting - Embryonic screening discussion (part 2)">here</a>.
 <br><br><br>
 
 ## Further information:
