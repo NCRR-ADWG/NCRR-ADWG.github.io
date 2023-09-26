@@ -1,9 +1,16 @@
 ---
 title: "Second meeting - Wednesday 17th May 2023"
-output:
-  html_document:
-    toc: false # Adding no table of contents
 ---
+
+```{r, echo=FALSE}
+htmltools::includeCSS("./css/footer.css")
+```
+
+```{js, echo=FALSE}
+$(function() {
+  $('.main-container').after($('.footer'));
+})
+```
 
 ## History of eugenics
 <br>
@@ -34,7 +41,8 @@ You can find the slides (in PDF format) used in connection to this meeting <a hr
 * <a href="https://www.bbc.co.uk/programmes/m001fd36" target="_blank" rel="noopener noreferrer" title="Bad Blood: The Story of Eugenics">_Bad Blood: The Story of Eugenics_</a> a BBC Radio 4 podcast by Adam Rutherford.
 * <a href="https://archive.ph/IheJc#selection-1303.0-1303.156" target="_blank" rel="noopener noreferrer" title="Inside the movement to take 'control of human evolution.'">_Billionaires like Elon Musk want to save civilization by having tons of genetically superior kids. Inside the movement to take 'control of human evolution.'_</a> a Buisness Insider Article about pronatalists from November 2022.
 * <a href="https://doi.org/10.3389/fgene.2023.1044555" target="_blank" rel="noopener noreferrer" title="Ancestry: How researchers use it and what they mean by it">_Ancestry: How researchers use it and what they mean by it'_</a>, Bege Dauda et al. in Frontiers in Genetics, January 2023.
+<br><br><br>
 
-
-
-
+```{r, echo=FALSE}
+htmltools::includeHTML("include_footer.html")
+```

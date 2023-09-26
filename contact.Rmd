@@ -1,9 +1,16 @@
 ---
 title: "Join us!"
-output:
-  html_document:
-    toc: false # Adding no table of contents
 ---
+
+```{r, echo=FALSE}
+htmltools::includeCSS("./css/footer.css")
+```
+
+```{js, echo=FALSE}
+$(function() {
+  $('.main-container').after($('.footer'));
+})
+```
 
 If you would like to be invited to future hybrid meetings, receive reminder emails, and other information contact us!
 <br><br><br>
@@ -29,3 +36,7 @@ If you would like to be invited to future hybrid meetings, receive reminder emai
 <br>
 <img style="float:left;margin:2px 10px 2px 10px;" width="20" height="20" src = images/envelope-solid.svg><a href="mailto:jst.ncrr@au.dk">jst.ncrr@au.dk</a>
 <br><br><br>
+
+```{r, echo=FALSE}
+htmltools::includeHTML("include_footer.html")
+```

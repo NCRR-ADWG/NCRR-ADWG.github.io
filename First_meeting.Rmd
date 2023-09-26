@@ -1,9 +1,16 @@
 ---
 title: "Kick-off meeting - Friday 31st March 2023"
-output:
-  html_document:
-    toc: false # Adding no table of contents
 ---
+
+```{r, echo=FALSE}
+htmltools::includeCSS("./css/footer.css")
+```
+
+```{js, echo=FALSE}
+$(function() {
+  $('.main-container').after($('.footer'));
+})
+```
 
 ## The misappropriation of genetics
 <br>
@@ -23,7 +30,8 @@ You can find the slides (in PDF format) used in connection to this meeting <a hr
 * A brief <a href="https://www.science.org/content/article/it-s-toxic-place-how-online-world-white-nationalists-distorts-population-genetics" target="_blank" rel="noopener noreferrer" title="It's a toxic place">interview with Jedidiah Carlson</a> in Science.
 * A <a href="https://www.nature.com/articles/d41586-022-03252-z" target="_blank" rel="noopener noreferrer" title="Counter the weaponization of genetics research by extremists">comment by Carlson et al.</a> published in Nature in October 2022.
 * <a href="https://doi.org/10.1126/science.abm7530" target="_blank" rel="noopener noreferrer" title="Getting genetic ancestry right for science and society">_Getting genetic ancestry right for science and society_</a> by Anna C.F. Lewis et al., published in Science in April 2022.
+<br><br><br>
 
-
-
-
+```{r, echo=FALSE}
+htmltools::includeHTML("include_footer.html")
+```

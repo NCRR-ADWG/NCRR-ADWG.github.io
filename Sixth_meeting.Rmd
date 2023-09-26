@@ -1,8 +1,23 @@
 ---
 title: "Sixth meeting - TBA"
-output:
-  html_document:
-    toc: false # Adding no table of contents
 ---
 
+```{r, echo=FALSE}
+htmltools::includeCSS("./css/footer.css")
+```
+
+```{js, echo=FALSE}
+$(function() {
+  $('.main-container').after($('.footer'));
+})
+```
+
 ## TBA
+
+
+
+<br><br><br>
+
+```{r, echo=FALSE}
+htmltools::includeHTML("include_footer.html")
+```

@@ -1,9 +1,16 @@
 ---
 title: "Podcasts"
-output:
-  html_document:
-    toc: false # Adding no table of contents
 ---
+
+```{r, echo=FALSE}
+htmltools::includeCSS("./css/footer.css")
+```
+
+```{js, echo=FALSE}
+$(function() {
+  $('.main-container').after($('.footer'));
+})
+```
 
 # English podcasts 
 <br>
@@ -22,3 +29,7 @@ output:
 <br>
 <a href="https://www.dr.dk/lyd/p1/spiralkampagnen" target="_blank" rel="noopener noreferrer" title="Spiralkampagnen">Spiralkampagnen</a>, a DR podcast.
 <br><br><br>
+
+```{r, echo=FALSE}
+htmltools::includeHTML("include_footer.html")
+```

@@ -1,9 +1,16 @@
 ---
 title: "Other interesting links"
-output:
-  html_document:
-    toc: false # Adding no table of contents
 ---
+
+```{r, echo=FALSE}
+htmltools::includeCSS("./css/footer.css")
+```
+
+```{js, echo=FALSE}
+$(function() {
+  $('.main-container').after($('.footer'));
+})
+```
 
 ## About the misappropiation of genetics 
 <br>
@@ -29,5 +36,6 @@ A brief <a href="https://www.science.org/content/article/it-s-toxic-place-how-on
 <a href="https://twitter.com/JedMSP" target="_blank" rel="noopener noreferrer" title="Jedidiah Carlson's Twitter account">@JedMSP</a>
 <br><br><br>
 
-
-
+```{r, echo=FALSE}
+htmltools::includeHTML("include_footer.html")
+```

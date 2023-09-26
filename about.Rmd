@@ -2,6 +2,16 @@
 title: "About the Anti-Discrimination Working Group"
 ---
 
+```{r, echo=FALSE}
+htmltools::includeCSS("./css/footer.css")
+```
+
+```{js, echo=FALSE}
+$(function() {
+  $('.main-container').after($('.footer'));
+})
+```
+
 ## Who are we? 
 <br>
 We are psychiatric genetics researchers at Aarhus University, based at the
@@ -53,3 +63,8 @@ Then please do not hesitate to contact us!
 <br>
 Please join us for our next meeting, which will be held on **August 18, 2023**.
 If you would like to be invited to future hybrid meetings, receive reminder emails, and other information <a href="contact.html" title="Join us!">**contact** us</a>!
+<br><br><br>
+
+```{r, echo=FALSE}
+htmltools::includeHTML("include_footer.html")
+```

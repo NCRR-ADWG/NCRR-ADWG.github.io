@@ -10,6 +10,8 @@ navbar:
     - text: "Meetings"
       menu:
       - text: Meetings in 2023
+      - text: "TBA"
+        href: Sixth_meeting.html
       - text: "Discussion - Embryonic Screening cont."
         href: Fifth_meeting.html
       - text: "Discussion - Embryonic Screening"
@@ -46,5 +48,3 @@ output:
     includes:
       in_header: include_favicon.html # Inluding a favicon 
       before_body: include_header.html # Including a logo
-      after_body: include_footer.html # Including a footer
-      

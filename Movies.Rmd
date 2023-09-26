@@ -1,9 +1,17 @@
 ---
 title: "Movies"
-output:
-  html_document:
-    toc: false # Adding no table of contents
 ---
+
+```{r, echo=FALSE}
+htmltools::includeCSS("./css/footer.css")
+```
+
+```{js, echo=FALSE}
+$(function() {
+  $('.main-container').after($('.footer'));
+})
+```
+
 ## About the troubling history and legacy of eugenics 
 <br>
 <a href="https://www.dr.dk/drtv/episode/de-aandssvages-historie_-de-ustyrlige_113803" target="_blank" rel="noopener noreferrer" title="De aandsvages historie: De ustyrlige">_De aandsvages historie: De ustyrlige_</a>, a DR series (only in Danish)
@@ -23,3 +31,7 @@ output:
 <br><br>
 <a href="https://www.imdb.com/title/tt0387808/" target="_blank" rel="noopener noreferrer" title="Idiocracy">_Idiocracy_</a>, a science fiction comedy from 2006.
 <br><br><br>
+
+```{r, echo=FALSE}
+htmltools::includeHTML("include_footer.html")
+```

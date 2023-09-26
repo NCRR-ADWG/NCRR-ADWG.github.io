@@ -8,6 +8,16 @@ output:
       - include_hero_image.html # Include the hero image
 ---
 
+```{r, echo=FALSE}
+htmltools::includeCSS("./css/footer.css")
+```
+
+```{js, echo=FALSE}
+$(function() {
+  $('.main-container').after($('.footer'));
+})
+```
+
 is what we aim for.
 <br><br><br>
 We are psychiatric genetics researchers at Aarhus University, based at 
@@ -25,3 +35,7 @@ You can read more about our aims under <a href="about.html" title="About the Ant
 Please join us at our next meeting, which will be held in **October 2023**.
 If you would like to be invited to future hybrid meetings, receive reminder emails, and other information 
 <a href="contact.html" title="Join us!">**contact us**</a>!
+
+```{r, echo=FALSE}
+htmltools::includeHTML("include_footer.html")
+```

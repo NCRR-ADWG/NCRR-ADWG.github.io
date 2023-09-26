@@ -1,9 +1,16 @@
 ---
 title: "Journal Articles"
-output:
-  html_document:
-    toc: false # Adding no table of contents
 ---
+
+```{r, echo=FALSE}
+htmltools::includeCSS("./css/footer.css")
+```
+
+```{js, echo=FALSE}
+$(function() {
+  $('.main-container').after($('.footer'));
+})
+```
 
 ## About the misappropiation of genetics 
 <br>
@@ -35,3 +42,7 @@ output:
 <br><br>
 <a href="https://www.jstor.org/stable/20696690" target="_blank" rel="noopener noreferrer" title="Genetic selection for deafness: the views of hearing children of deaf adults">_Genetic selection for deafness: the views of hearing children of deaf adults_</a>, C. Mand et al., 2009. 
 <br><br><br>
+
+```{r, echo=FALSE}
+htmltools::includeHTML("include_footer.html")
+```

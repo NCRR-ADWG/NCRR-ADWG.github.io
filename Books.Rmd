@@ -1,9 +1,16 @@
 ---
 title: "Books"
-output:
-  html_document:
-    toc: false # Adding no table of contents
 ---
+
+```{r, echo=FALSE}
+htmltools::includeCSS("./css/footer.css")
+```
+
+```{js, echo=FALSE}
+$(function() {
+  $('.main-container').after($('.footer'));
+})
+```
 
 ## About the troubling history and legacy of eugenics 
 <br>
@@ -22,3 +29,7 @@ output:
 <br><br>
 <a href="https://www.simonandschuster.com/books/How-to-Be-Human/Jory-Fleming/9781501180521" target="_blank" rel="noopener noreferrer" title="How to Be Human: An Autistic Man's guide to Life">How to Be Human: An Autistic Man's guide to Life</a>, Jory Fleming, Simon & Schuster, 2022.
 <br><br><br>
+
+```{r, echo=FALSE}
+htmltools::includeHTML("include_footer.html")
+```
