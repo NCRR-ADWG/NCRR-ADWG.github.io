@@ -7,11 +7,16 @@ output:
 
 ## Discussion - Embryonic Screening (part 1)
 <br>
-The fourth ADWG meeting will be used to discuss the topic from the last meeting, namely the implementation and use of embryonic screening and the concerns that arise in this connection.
-
+The fourth ADWG meeting was used to discuss the topic from the last meeting, namely the implementation and use of embryonic screening and the concerns that arise in this connection.
+<br>
+The meeting started with a brief recap of the topic presented at the previous meeting. Afterwards, we turned to some of the bioethical thought experiments presented in Chapter 40, __Red Lines__, of the book <a href="https://www.simonandschuster.com/books/The-Code-Breaker/Walter-Isaacson/9781982115869" target="_blank" rel="noopener noreferrer" title="The code breaker by Walter Isaacson">_The code breaker: Jennifer Doudna, gene editing, and the future of the human race_</a> written by Walter Isaacson. Note that all users of Det Kgl. Bibliotek are able to read this book online (for free) at <a href="https://soeg.kb.dk/permalink/45KBDK_KGL/1pioq0f/alma99123923577205763" target="_blank" rel="noopener noreferrer" title="Det Kgl. Bibliotek">_kb.dk_</a>.
+<br>
+Even though this book focuses on the concerns that arise in connection to gene editing with CRISPR, the thought experiments are also applicable to genetic screening. 
+<br>
+In this meeting, we focused on the thought experiments about monogenic diseases (Huntington's disease and Sickle-cell anemia), as well as deafness (and the associated discussion about disadvantages vs. disabilities). Regarding the latter, we considered a real life example from 2002 of a deaf lesbian couple wanting a deaf baby (read more about this case <a href="https://jme.bmj.com/content/28/5/283" target="_blank" rel="noopener noreferrer" title="Deaf lesbian couple wants a deaf baby">_here_</a>), and discussed the ethical concerns that were raised by society. A paper discussing some ethical issues can be found <a href="https://www.jstor.org/stable/20696690" target="_blank" rel="noopener noreferrer" title="Genetic selection for deafness: the views of hearing children of deaf adults">_here_</a>. 
 
 <br>
-We highly recommend reading the review <a href="https://doi.org/10.1016/s2215-0366(22)00157-2" target="_blank" rel="noopener noreferrer" title="Concerns about the use of polygenic embryo screening for psychiatric and cognitive traits">_Concerns about the use of polygenic embryo screening for psychiatric and cognitive traits_</a>, published by Todd Lencz et al. in Lancet Psychiatry in 2022.
+We highly recommend reading the review <a href="https://doi.org/10.1016/s2215-0366(22)00157-2" target="_blank" rel="noopener noreferrer" title="Concerns about the use of polygenic embryo screening for psychiatric and cognitive traits">_Concerns about the use of polygenic embryo screening for psychiatric and cognitive traits_</a>, published by Todd Lencz et al. in Lancet Psychiatry in 2022, as well as Chapter 40, __Red Lines__, of the book <a href="https://www.simonandschuster.com/books/The-Code-Breaker/Walter-Isaacson/9781982115869" target="_blank" rel="noopener noreferrer" title="The code breaker by Walter Isaacson">_The code breaker: Jennifer Doudna, gene editing, and the future of the human race_</a> written by Walter Isaacson. Again we want to highlight that all users of Det Kgl. Bibliotek are able to read this book online (for free) at <a href="https://soeg.kb.dk/permalink/45KBDK_KGL/1pioq0f/alma99123923577205763" target="_blank" rel="noopener noreferrer" title="Det Kgl. Bibliotek">_kb.dk_</a>.
 <br><br>
 
 You can find the slides (in PDF format) used in connection to this meeting <a href="Slides/ADWG_meeting4_embryonic_screening_part2.pdf" target="_blank" rel="noopener noreferrer" title="ADWG meeting - Embryonic screening">here</a>.
@@ -20,6 +25,7 @@ You can find the slides (in PDF format) used in connection to this meeting <a hr
 ## Further information:
 <br>
 
+* <a href="https://www.simonandschuster.com/books/How-to-Be-Human/Jory-Fleming/9781501180521" target="_blank" rel="noopener noreferrer" title="How to Be Human: An Autistic Man's guide to Life">How to Be Human: An Autistic Man's guide to Life</a>, Jory Fleming, Simon & Schuster, 2022.
 * <a href="https://www.polygenicembryo.org/" target="_blank" rel="noopener noreferrer" title="Polygenic Embryo ELSI Research">Polygenic Embryo ELSI Research - The 'PEER' Group</a>.
 * <a href="https://doi.org/10.1111/aogs.13831" target="_blank" rel="noopener noreferrer" title="Preimplantation genetic testing legislation and accessibility in the Nordic countries">_Preimplantation genetic testing legislation and accessibility in the Nordic countries_</a>, Julius Hreinsson et al., Acta Obstetricia et Gynecologica Scandinavica, 2020.
 * <a href="https://doi.org/10.1111/aogs.13882" target="_blank" rel="noopener noreferrer" title="Personalized medicine for the embryo and the fetus - Options in modern genetics influence preconception and prenatal choices">_Personalized medicine for the embryo and the fetus - Options in modern genetics influence preconception and prenatal choices_</a>, Hans Jakob Ingerslev et al., Acta Obstetricia et Gynecologica Scandinavica, 2020.
