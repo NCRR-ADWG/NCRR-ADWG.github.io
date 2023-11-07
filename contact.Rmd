@@ -14,6 +14,25 @@ $(function() {
 
 If you would like to be invited to future hybrid meetings, receive reminder emails, and other information contact us!
 <br><br><br>
+<font size = 5>**Alisha Hall**</font> 
+<br>
+<img style="float:left;margin:2px 10px 2px 10px;" width="20" height="20" src = images/envelope-solid.svg><a href="mailto:alishasmhall@clin.au.dk">alishasmhall@clin.au.dk</a>
+<br>
+<img style="float:left;margin:2px 10px 2px 10px;" width="20" height="20" src = images/x-twitter.svg><a href="https://twitter.com/asmhall" target="_blank" rel="noopener noreferrer"  title="Alisha Hall's Twitter account">@asmhall</a>
+<br><br>
+<font size = 5>**Jette Steinbach**</font>
+<br>
+<img style="float:left;margin:2px 10px 2px 10px;" width="20" height="20" src = images/envelope-solid.svg><a href="mailto:jst.ncrr@au.dk">jst.ncrr@au.dk</a>
+<br><br><br>
+
+# WANTED!
+<br> 
+Jess Mundy and Hannah Chatwin recently stepped down as members of the ADWG organizing committee.
+<br>
+We are therefore looking for new members for the committee! If you are interested in helping us to come up with ideas for future meetings, create presentations, send calendar invites and bake cake, please contact us!
+<br><br><br>
+
+## Previous members of the ADWG organizing committee
 <font size = 5>**Jess Mundy**</font>
 <br>
 <img style="float:left;margin:2px 10px 2px 10px;" width="20" height="20" src = images/envelope-solid.svg><a href="mailto:jmundy@clin.au.dk">jmundy@clin.au.dk</a> 
@@ -25,16 +44,6 @@ If you would like to be invited to future hybrid meetings, receive reminder emai
 <img style="float:left;margin:2px 10px 2px 10px;" width="20" height="20" src = images/envelope-solid.svg><a href="mailto:hchatwin.ncrr@au.dk">hchatwin.ncrr@au.dk</a>
 <br>
 <img style="float:left;margin:2px 10px 2px 10px;" width="20" height="20" src = images/x-twitter.svg><a href="https://twitter.com/hannahchatwin2" target="_blank" rel="noopener noreferrer" title="Hannah Chatwin's Twitter account">@hannahchatwin2</a>
-<br><br>
-<font size = 5>**Alisha Hall**</font> 
-<br>
-<img style="float:left;margin:2px 10px 2px 10px;" width="20" height="20" src = images/envelope-solid.svg><a href="mailto:alishasmhall@clin.au.dk">alishasmhall@clin.au.dk</a>
-<br>
-<img style="float:left;margin:2px 10px 2px 10px;" width="20" height="20" src = images/x-twitter.svg><a href="https://twitter.com/asmhall" target="_blank" rel="noopener noreferrer"  title="Alisha Hall's Twitter account">@asmhall</a>
-<br><br>
-<font size = 5>**Jette Steinbach**</font>
-<br>
-<img style="float:left;margin:2px 10px 2px 10px;" width="20" height="20" src = images/envelope-solid.svg><a href="mailto:jst.ncrr@au.dk">jst.ncrr@au.dk</a>
 <br><br><br>
 
 ```{r, echo=FALSE}
