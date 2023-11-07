@@ -10,7 +10,7 @@ navbar:
     - text: "Meetings"
       menu:
       - text: Meetings in 2023
-      - text: "TBA"
+      - text: "Ableism and positive psychology"
         href: Sixth_meeting.html
       - text: "Discussion - Embryonic Screening cont."
         href: Fifth_meeting.html

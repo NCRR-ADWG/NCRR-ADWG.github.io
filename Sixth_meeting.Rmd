@@ -1,5 +1,5 @@
 ---
-title: "Sixth meeting - TBA"
+title: "Sixth meeting - Wednesday 1st November 2023"
 ---
 
 ```{r, echo=FALSE}
@@ -12,9 +12,57 @@ $(function() {
 })
 ```
 
-## TBA
+## Ableism and positive psychology
+<br>
+In this meeting, the anti-discrimination working group covered ableism, disablism, and positive psychology.
+
+### What is ableism?
+<br>
+Using the definition presented <a href="https://www.accessliving.org/newsroom/blog/ableism-101/" target="_blank" rel="noopener noreferrer" title="Access living - Ableism 101">here</a>: 
+<br>
+>_Ableism_ is the __discrimination__ of and __social prejudice__ against people with disabilities based on the belief that __typical abilities__ are __superior__. At its heart, ableism is rooted in the __assumption__ that disabled people require __'fixing'__ and defines people by their disability. Like racism and sexism, ableism classifies entire groups of people as __'less than'__, and includes harmful stereotypes, misconceptions, and generalizations of people with disabilities.
+
+<br><br><br>
+
+### What is disablism?
+<br>
+Using the definition given <a href="https://www.sense.org.uk/information-and-advice/ableism-and-disablism/" target="_blank" rel="noopener noreferrer" title="Sense - Ableism and disablism">here</a>: 
+<br>
+> _Disablism_ is a word for __negative__ opinions, behaviour, or abuse against disabled people. You are being disablist if you __treat someone differently__, or choose to __offend__ or __hurt__ someone, because of their disability.
+
+<br><br><br>
+
+### What is the difference between ableism and disablism?
+<br>
+There is some overlap between _ableism_ and _disablism_, and many people use these two words interchangeably. In general, _ableism_ can be used to describe the way society and people tend to favor able-bodied people, while _disablism_ can be used to describe more direct and conscious acts of discrimination or abuse against people with disabilities. 
+<br>
+_Disablism_ is a newer word, and it is preferred by some activists because they believe that the word _disablism_ makes it clearer that it has nothing to do with the disabled individual's 'ability'. 
+<br><br>
+For more information visit the website on ableism and disablism provided by the charity <a href="https://www.sense.org.uk/information-and-advice/ableism-and-disablism/" target="_blank" rel="noopener noreferrer" title="Sense - Ableism and disablism">Sense</a>, or the website about ableism provided by <a href="https://www.accessliving.org/newsroom/blog/ableism-101/" target="_blank" rel="noopener noreferrer" title="Access living - Ableism 101">Access Living</a>. 
 
 
+You can find the slides (in PDF format) used in connection to this meeting <a href="Slides/ADWG_meeting6_ableism.pdf" target="_blank" rel="noopener noreferrer" title="ADWG meeting - Ableism and positive psychology">here</a>.
+<br><br><br>
+
+## Further information:
+<br>
+https://www.apa.org/ed/precollege/psychology-teacher-network/introductory-psychology/ableism-negative-reactions-disability
+
+https://www-taylorfrancis-com.ez.statsbiblioteket.dk/books/edit/10.4324/9781315623924/understanding-lived-experiences-persons-disabilities-nine-countries-julie-beadle-brown-mario-biggeri-rune-halvorsen-bj%C3%B8rn-hvinden-jan-t%C3%B8ssebro-anne-waldschmidt
+
+https://global.oup.com/academic/product/understanding-the-experience-of-disability-9780190848088?cc=dk&lang=en&#
+
+https://bcrw.barnard.edu/no-body-is-disposable-series/
+
+https://hbr.org/2020/12/why-you-need-to-stop-using-these-words-and-phrases
+
+https://ncdj.org/style-guide/
+
+https://www.bbc.com/worklife/article/20210330-the-harmful-ableist-language-you-unknowingly-use
+
+https://www.autistichoya.com/p/ableist-words-and-terms-to-avoid.html
+
+https://doi.org/10.3389%2Ffpsyg.2021.790506
 
 <br><br><br>
 
