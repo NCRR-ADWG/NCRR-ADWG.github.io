@@ -41,9 +41,11 @@ So far, we have covered the following topics:
 <br><br>
 <a href="First_meeting.html" title="Kick-off meeting - Friday 31st March 2023">__The misappropriation of genetics research__</a>, 
 <br>
-<a href="Second_meeting.html" title="Second meeting - Wednesday 17th May 2023">__The history of eugenics as it relates to genetic research__</a>, and
+<a href="Second_meeting.html" title="Second meeting - Wednesday 17th May 2023">__The history of eugenics as it relates to genetic research__</a>,
 <br>
-<a href="Third_meeting.html" title="Third meeting - Wednesday 23rd June 2023">__Polygenic embryo screening__</a>.
+<a href="Third_meeting.html" title="Third meeting - Wednesday 23rd June 2023">__Polygenic embryo screening__</a>, and
+<br>
+<a href="Sixth_meeting.html" title="Sixth meeting - Wednesday 1st November 2023">__Ableism and positive psychology__</a>.
 <br><br>
 You can find a summary, slides and further information about the different meetings under the tab **Meetings**.
 <br><br><br>
@@ -61,7 +63,7 @@ Then please do not hesitate to contact us!
 
 ## Join us!
 <br>
-Please join us for our next meeting, which will be held on **August 18, 2023**.
+Please join us for our next meeting, which will be held in **December 2023**.
 If you would like to be invited to future hybrid meetings, receive reminder emails, and other information <a href="contact.html" title="Join us!">**contact** us</a>!
 <br><br><br>
 
