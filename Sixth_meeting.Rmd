@@ -15,32 +15,31 @@ $(function() {
 ## Ableism and positive psychology
 <br>
 In this meeting, the anti-discrimination working group covered ableism, disablism, and positive psychology.
+<br>
 
 ### What is ableism?
 <br>
 Using the definition presented <a href="https://www.accessliving.org/newsroom/blog/ableism-101/" target="_blank" rel="noopener noreferrer" title="Access living - Ableism 101">here</a>: 
-<br>
+<br><br>
 _Ableism_ is the __discrimination__ of and __social prejudice__ against people with disabilities based on the belief that __typical abilities__ are __superior__. At its heart, ableism is rooted in the __assumption__ that disabled people require __'fixing'__ and defines people by their disability. Like racism and sexism, ableism classifies entire groups of people as __'less than'__, and includes harmful stereotypes, misconceptions, and generalizations of people with disabilities.
-
-<br><br><br>
+<br><br>
 
 ### What is disablism?
 <br>
 Using the definition given <a href="https://www.sense.org.uk/information-and-advice/ableism-and-disablism/" target="_blank" rel="noopener noreferrer" title="Sense - Ableism and disablism">here</a>: 
-<br>
+<br><br>
 _Disablism_ is a word for __negative__ opinions, behaviour, or abuse against disabled people. You are being disablist if you __treat someone differently__, or choose to __offend__ or __hurt__ someone, because of their disability.
 
-<br><br><br>
+<br><br>
 
 ### What is the difference between ableism and disablism?
 <br>
 There is some overlap between _ableism_ and _disablism_, and many people use these two words interchangeably. In general, _ableism_ can be used to describe the way society and people tend to favor able-bodied people, while _disablism_ can be used to describe more direct and conscious acts of discrimination or abuse against people with disabilities. 
 <br>
 _Disablism_ is a newer word, and it is preferred by some activists because they believe that the word _disablism_ makes it clearer that it has nothing to do with the disabled individual's 'ability'. 
-<br><br>
+<br>
 For more information visit the website on ableism and disablism provided by the charity <a href="https://www.sense.org.uk/information-and-advice/ableism-and-disablism/" target="_blank" rel="noopener noreferrer" title="Sense - Ableism and disablism">Sense</a>, or the website about ableism provided by <a href="https://www.accessliving.org/newsroom/blog/ableism-101/" target="_blank" rel="noopener noreferrer" title="Access living - Ableism 101">Access Living</a>. 
-
-
+<br><br><br>
 You can find the slides (in PDF format) used in connection to this meeting <a href="Slides/ADWG_meeting6_ableism.pdf" target="_blank" rel="noopener noreferrer" title="ADWG meeting - Ableism and positive psychology">here</a>.
 <br><br><br>
 
@@ -49,21 +48,26 @@ You can find the slides (in PDF format) used in connection to this meeting <a hr
 
 ### About ableism and disablism
 <br>
+
 * <a href="https://bcrw.barnard.edu/no-body-is-disposable-series/" target="_blank" rel="noopener noreferrer" title="No Body is Disposable">_No Body is Disposable_</a>, a series provided by the Barnard Center for Research on Women.
 * <a href="https://www.sense.org.uk/information-and-advice/ableism-and-disablism/" target="_blank" rel="noopener noreferrer" title="Sense - Ableism and disablism">Sense.org</a>
 * <a href="https://www.accessliving.org/newsroom/blog/ableism-101/" target="_blank" rel="noopener noreferrer" title="Access living - Ableism 101">accessliving.org</a>
 * <a href="https://www.apa.org/ed/precollege/psychology-teacher-network/introductory-psychology/ableism-negative-reactions-disability" target="_blank" rel="noopener noreferrer" title="American Psychological Association - Understanding ableism and negative reactions to disability ">_Understanding ableism and negative reactions to disability_</a>, Dana S. Dunn, American Psychological Association, 2021.
 * <a href="https://global.oup.com/academic/product/understanding-the-experience-of-disability-9780190848088?cc=dk&lang=en&#" target="_blank" rel="noopener noreferrer" title="Dana S. Dunn - Understanding the Experience of Disability">_Understanding the Experience of Disability - Perspectives from Social and Rehabilitation Psychology_</a>, Dana S. Dunn, 2019.
 * <a href="https://doi-org.ez.statsbiblioteket.dk/10.4324/9781315623924" target="_blank" rel="noopener noreferrer" title="Understanding the Lived Experiences of Persons with Disabilities in Nine Countries">_Understanding the Lived Experiences of Persons with Disabilities in Nine Countries - Active Citizenship and Disability in Europe Volume 2_</a>, Rune Halvorsen et al., 2018.
+
 <br><br>
 
-## About ableist language
+### About ableist language
 <br>
+
 * <a href="https://hbr.org/2020/12/why-you-need-to-stop-using-these-words-and-phrases" target="_blank" rel="noopener noreferrer" title="Why You Need to Stop Using These Words and Phrases">_Why You Need to Stop Using These Words and Phrases _</a>, Rakshitha A. Ravishankar, Harvard Business Review, 2020.
 * <a href="https://ncdj.org/style-guide/" target="_blank" rel="noopener noreferrer" title="Disability Language Style Guide">_Disability Language Style Guide_</a>, from the National Center on Disability and Journalism, 2021.
 * <a href="https://www.bbc.com/worklife/article/20210330-the-harmful-ableist-language-you-unknowingly-use" target="_blank" rel="noopener noreferrer" title="The harmful ableist language you unknowingly use">_The harmful ableist language you unknowingly use_</a>, Sara Nović, BBC - Equality Matters, 2021.
 
-## About positive psychology
+<br>
+
+### About positive psychology
 <br>
 * <a href="https://doi.org/10.3389%2Ffpsyg.2021.790506" target="_blank" rel="noopener noreferrer" title="The Future of Positive Psychology and Disability">_The Future of Positive Psychology and Disability_</a>, Michael L. Wehmeyer, Frontiers in Psychology, 2021.
 * <a href="https://psycnet.apa.org/doi/10.1037/0003-066X.55.1.5" target="_blank" rel="noopener noreferrer" title="Positive psychology: An introduction">_Positive psychology: An introduction_</a>, Martin E.P. Seligman and Mihaly Csikszentmihalyi, American Psychologist, 2000.
