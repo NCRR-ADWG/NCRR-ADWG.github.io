@@ -9,19 +9,23 @@ navbar:
       href: about.html
     - text: "Meetings"
       menu:
+      - text: Meetings in 2024
+      - text: "Discrimination and diversity in the Danish research community"
+        href: Seventh_meeting.html
       - text: Meetings in 2023
-      - text: "Ableism and positive psychology"
-        href: Sixth_meeting.html
-      - text: "Discussion - Embryonic Screening cont."
-        href: Fifth_meeting.html
-      - text: "Discussion - Embryonic Screening"
-        href: Fourth_meeting.html
-      - text: "Embryonic Screening"
-        href: Third_meeting.html
-      - text: "The History of Eugenics"
-        href: Second_meeting.html
-      - text: "Kick-off Meeting"
-        href: First_meeting.html
+        menu:
+        - text: "Ableism and positive psychology"
+          href: Sixth_meeting.html
+        - text: "Discussion - Embryonic Screening cont."
+          href: Fifth_meeting.html
+        - text: "Discussion - Embryonic Screening"
+          href: Fourth_meeting.html
+        - text: "Embryonic Screening"
+          href: Third_meeting.html
+        - text: "The History of Eugenics"
+          href: Second_meeting.html
+        - text: "Kick-off Meeting"
+          href: First_meeting.html
     - text: "Other resources"
       menu:
       - text: "Movies"
