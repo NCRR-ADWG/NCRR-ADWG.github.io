@@ -1,0 +1,56 @@
+---
+title: "7th meeting - Thursday 25th of January 2023"
+---
+
+```{r, echo=FALSE}
+htmltools::includeCSS("./css/footer.css")
+```
+
+```{js, echo=FALSE}
+$(function() {
+  $('.main-container').after($('.footer'));
+})
+```
+
+## Discrimination and diversity in the Danish research community
+<br>
+In the first anti-discrimination working group meeting in 2024, we discussed discrimination and diversity in the Danish research community, intersectionalism, and how to be a better ally.
+<br><br>
+
+#### What is diversity?
+
+Using the definition presented in the paper <a href="https://doi.org/10.1038/s41557-020-0529-x" target="_blank" rel="noopener noreferrer" title="A diverse view of science to catalyse change">_A diverse view of science to catalyse change_</a> by Urbina-Blanco et al. : 
+<br><br>
+The ways in which people differ, encompassing all the characteristics that make one individual or group distinctive. The dimensions of diversity include, but are not limited to 
+(i) ethnic or national origins, skin colour or nationality, 
+(ii) gender, gender identity and gender expression, 
+(iii) sexual orientation, 
+(iv) background (socio-economic status, immigration status or class), 
+(v) religion or belief (including absence of belief), 
+(vi) civil or marital status, 
+(vii) pregnancy and maternity, paternity, parental leave and 
+(viii) age and 
+(ix) disability.
+
+<br><br>
+
+
+#### How to be a better ally!
+
+* Offer diversity and inclusion training and workshops
+* Use inclusive communication
+* Implement neurodiversity hiring programs
+* Use colorblind-friendly pallettes
+
+<br><br><br>
+
+## Further information:
+<br>
+
+* <a href="https://doi.org/10.1038/s41557-020-0529-x" target="_blank" rel="noopener noreferrer" title="A diverse view of science to catalyse change">_A diverse view of science to catalyse change_</a>, César A. Urbina-Blanco et al., 2020
+
+<br><br><br>
+
+```{r, echo=FALSE}
+htmltools::includeHTML("include_footer.html")
+```

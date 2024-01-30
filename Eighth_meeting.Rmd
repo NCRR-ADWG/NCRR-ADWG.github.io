@@ -1,0 +1,41 @@
+---
+title: "8th meeting - Thursday 22nd of February 2023"
+---
+
+```{r, echo=FALSE}
+htmltools::includeCSS("./css/footer.css")
+```
+
+```{js, echo=FALSE}
+$(function() {
+  $('.main-container').after($('.footer'));
+})
+```
+
+## Book club: _The Immortal Life of __He__nrietta __La__cks_
+<br>
+The next anti-discrimination working group meeting will be a book club, where we will discuss the book <a href="https://rebeccaskloot.com/the-immortal-life/about-the-book/" target="_blank" rel="noopener noreferrer" title="The Immortal Life of Henrietta Lacks">_The Immortal Life of __He__nrietta __La__cks_</a> by Rebecca Skloot.
+<br><br>
+
+#### How to access the book?
+
+You can buy the book <a href="https://www.saxo.com/dk/the-immortal-life-of-henrietta-lacks_rebecca-skloot_paperback_9781400052189" target="_blank" rel="noopener noreferrer" title="The Immortal Life of Henrietta Lacks by Rebecca Skloot">here</a>.
+
+Not a bookworm? No problem! You can also watch the <a href="https://www.imdb.com/title/tt5686132/" target="_blank" rel="noopener noreferrer" title="The Immortal Life of Henrietta Lacks">movie</a>, or listen to the audiobook on <a href="https://www.amazon.com/Immortal-Life-Henrietta-Lacks/dp/B0036UZCRM" target="_blank" rel="noopener noreferrer" title="The Immortal Life of Henrietta Lacks">Audible</a> or on <a href="https://mofibo.com/dk/authors/rebecca-skloot-4268" target="_blank" rel="noopener noreferrer" title="The Immortal Life of Henrietta Lacks">mofibo</a>.
+<br><br>
+
+<!--You can find the slides (in PDF format) used in connection to this meeting <a href="Slides/ADWG_meeting8.pdf" target="_blank" rel="noopener noreferrer" title="ADWG meeting - Book club: The Immortal Life of Henrietta Lacks">here</a>-->.
+<br><br><br>
+
+## Further information:
+<br>
+
+* <a href="https://rebeccaskloot.com/the-immortal-life/about-the-book/" target="_blank" rel="noopener noreferrer" title="The Immortal Life of Henrietta Lacks by Rebecca Skloot">The Immortal Life of Henrietta Lacks</a>, Rebecca Skloot.
+* <a href="http://henriettalacksfoundation.org/" target="_blank" rel="noopener noreferrer" title="The Henrietta Lacks Foundation">The Henrietta Lacks Foundation</a>
+
+
+<br><br><br>
+
+```{r, echo=FALSE}
+htmltools::includeHTML("include_footer.html")
+```
