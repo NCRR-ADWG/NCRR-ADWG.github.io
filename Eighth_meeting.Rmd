@@ -12,9 +12,9 @@ $(function() {
 })
 ```
 
-## Book club: _The Immortal Life of __He__nrietta __La__cks_
+## Book club: _The Immortal Life of <b>He</b>nrietta <b>La</b>cks_
 <br>
-The next anti-discrimination working group meeting will be a book club, where we will discuss the book <a href="https://rebeccaskloot.com/the-immortal-life/about-the-book/" target="_blank" rel="noopener noreferrer" title="The Immortal Life of Henrietta Lacks">_The Immortal Life of __He__nrietta __La__cks_</a> by Rebecca Skloot.
+The next anti-discrimination working group meeting will be a book club, where we will discuss the book <a href="https://rebeccaskloot.com/the-immortal-life/about-the-book/" target="_blank" rel="noopener noreferrer" title="The Immortal Life of Henrietta Lacks">_The Immortal Life of <b>He</b>nrietta <b>La</b>cks_</a> by Rebecca Skloot.
 <br><br>
 
 #### How to access the book?
