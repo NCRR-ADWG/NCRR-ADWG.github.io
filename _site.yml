@@ -15,6 +15,7 @@ navbar:
       - text: "Discrimination and diversity in the Danish research community"
         href: Seventh_meeting.html
       - text: Meetings in 2023
+        href: 2023_meeting_overview.html
         menu:
         - text: "Ableism and positive psychology"
           href: Sixth_meeting.html

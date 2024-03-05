@@ -1,0 +1,31 @@
+---
+title: "ADWG Meetings in 2023"
+---
+
+```{r, echo=FALSE}
+htmltools::includeCSS("./css/footer.css")
+```
+
+```{js, echo=FALSE}
+$(function() {
+  $('.main-container').after($('.footer'));
+})
+```
+
+In 2023, the anti-discrimination working group covered the following topics:
+<br>
+
+* <a href="First_meeting.html" title="The misappropriation of genetics">The misappropriation of genetics</a>
+* <a href="Second_meeting.html" title="The History of Eugenics">The History of Eugenics</a>
+* <a href="Third_meeting.html" title="Embyonic Screening">Embyonic Screening</a>
+* <a href="Sixth_meeting.html" title="Ableism and positive psychology">Ableism and positive psychology</a>
+
+<br><br><br>
+
+
+
+<br><br><br>
+
+```{r, echo=FALSE}
+htmltools::includeHTML("include_footer.html")
+```
