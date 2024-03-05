@@ -1,5 +1,5 @@
 ---
-title: "7th meeting - Thursday 25th of January 2023"
+title: "7th meeting - Thursday 25th of January 2024"
 ---
 
 ```{r, echo=FALSE}
