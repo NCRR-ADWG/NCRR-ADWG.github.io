@@ -163,10 +163,6 @@ a:hover {
 
 /* -------------- Adjusting tables -------------- */
 
-table {
-  border-spacing: 20px;
-}
-
 th, td {
   text-align: left;
   vertical-align: top;

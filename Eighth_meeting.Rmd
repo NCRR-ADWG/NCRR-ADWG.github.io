@@ -57,7 +57,7 @@ You can find a full book summery <a href="https://www.sparknotes.com/lit/immorta
 Many ethical dilemmas and their consequences are mentioned in  _The Immortal Life of <b>He</b>nrietta <b>La</b>cks_. Some of them are represented in the following table:
 <br><br>
 
-<table style="width:90%;border-spacing:20px">
+<table style="width:90%;border-spacing:30px;">
   <tr>
     <th style="width:20%">Ethical dilemma</th>
     <th style="width:26%">1950s</th>
