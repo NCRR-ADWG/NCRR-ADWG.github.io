@@ -17,12 +17,12 @@ $(function() {
 The second anti-discrimination working group meeting in 2024 was a book club, where we discussed the book <a href="https://rebeccaskloot.com/the-immortal-life/about-the-book/" target="_blank" rel="noopener noreferrer" title="The Immortal Life of Henrietta Lacks">_The Immortal Life of <b>He</b>nrietta <b>La</b>cks_</a> by Rebecca Skloot.
 <br><br>
 
-#### About the book
+### About the book
 <br>
 _The Immortal Life of <b>He</b>nrietta <b>La</b>cks_ is a non-fiction book about <b>He</b>nrietta <b>La</b>cks and the immortal cell line known as <b>HeLa</b>. The book was published by Rebecca Skloot in 2010, many years after Rebecca Skloot started conducting research on Henrietta Lacks and her family. _The Immortal Life of <b>He</b>nrietta <b>La</b>cks_ deals with ethical issues of race and class in medical research.
 <br><br>
 
-#### Who was Henrietta Lacks (incorrectly also known as Henrietta Lakes or Helen Lane)?
+### Who was Henrietta Lacks (incorrectly also known as Henrietta Lakes or Helen Lane)?
 <br>
 Henrietta Lacks was born Loretta Pleasent in Roanoke, Virginia, in 1920. After her mother's death (she died giving birth to her tenth child), Henrietta Lacks was sent to live with her grandfather, Tommy Lacks, who was a tobacco farmer in Clover, Virginia. During her time in Clover, Henrietta shared a room with her cousin David "Day" Lacks. And when Henrietta was fourteen years old, she gave birth to her and Day's first son, Lawrence. Four years later, Henrietta gave birth to their second child, a daughter named Elsie. Henrietta and Day got married two years after Elsie's birth.
 After moving to Baltimore, Maryland (Turner Station), Henrietta and Day received three more children; David Jr, Deborah and Joseph (later Zakariyya). Less than five month after giving birth to Joseph in November 1950, Henrietta was diagnosed with cervical cancer. After being treated with radium tube inserts and X-ray treatments (both treatments having severe side effects), Henrietta Lacks died at the Johns Hopkins hospital on October 4, 1951.
@@ -30,7 +30,7 @@ After moving to Baltimore, Maryland (Turner Station), Henrietta and Day received
 According to her family members, Henrietta loved dancing and was very caring. 
 <br><br>
 
-#### A short summary of the book
+### A short summary of the book
 <br>
 
 * 1951: Henrietta Lacks was admitted to the “colored” section of Johns Hopkins Hospital to treat a “knot” on her cervix. She signed a consent form to get any surgery necessary to treat her cancer.
@@ -52,7 +52,7 @@ According to her family members, Henrietta loved dancing and was very caring.
 You can find a full book summery <a href="https://www.sparknotes.com/lit/immortal-life/summary/" target="_blank" rel="noopener noreferrer" title="The Immortal Life of Henrietta Lacks Full Book Summary">here</a>.
 <br><br>
 
-#### Ethical dilemmas and lessons learned
+### Ethical dilemmas and lessons learned
 <br>
 Many ethical dilemmas and their consequences are mentioned in  _The Immortal Life of <b>He</b>nrietta <b>La</b>cks_. Some of them are represented in the following table:
 <br><br>
@@ -65,22 +65,22 @@ Many ethical dilemmas and their consequences are mentioned in  _The Immortal Lif
     <th>Danish legistlation</th>
   </tr>
   <tr>
-    <td>Informed consent</td> <!-- Table Data (cell) -->
+    <td>__Informed consent__</td> <!-- Table Data (cell) -->
     <td>There was no established practice for informed or obtained consent from cell or tissue donors.</td>
     <td>The participation of human subjects in a research study requires their informed consent. A declaration of consent and any accompanying additional participant information must be formulated in a language that enables persons being asked to provide their consent to understand what they are consenting to.</td>
     <td> In Denmark, cells and tissues may be collected and stored for research without explicit consent.</td>
   </tr>
   <tr>
-    <td>Medical records privacy</td> <!-- Table Data (cell) -->
+    <td>__Medical records privacy__</td> <!-- Table Data (cell) -->
     <td>Patients had no right to see or retain a copy of their medical records. No laws prohibited the sharing of medical record information in connection with research.</td>
     <td>Patients have the right to see and have a copy of their medical records. Laws regulate patient consent and the use and sharing of medical record information.</td>
     <td> In Denmark, health data can be used for research without explicit consent. Patients cannot obtain information about the specific analyses or projects their data was in.</td>
   </tr>
   <tr>
-    <td>Communication with tissue donors and research participants</td> <!-- Table Data (cell) -->
+    <td>__Communication with tissue donors and research participants__</td> <!-- Table Data (cell) -->
     <td>There was no established practice for informed or obtained consent from cell or tissue donors.</td>
     <td>Strict patient consent processes for those who donate tissue and cellular materials for research are in place.</td>
-    <td> Same as today </td>
+    <td> Same left cell </td>
   </tr>
 </table>
 
@@ -89,7 +89,7 @@ Many ethical dilemmas and their consequences are mentioned in  _The Immortal Lif
 #### How to access the book
 <br>
 You can buy the book <a href="https://www.saxo.com/dk/the-immortal-life-of-henrietta-lacks_rebecca-skloot_paperback_9781400052189" target="_blank" rel="noopener noreferrer" title="The Immortal Life of Henrietta Lacks by Rebecca Skloot">here</a>.
-<br>
+<br><br>
 Not a bookworm? No problem! You can also watch the <a href="https://www.imdb.com/title/tt5686132/" target="_blank" rel="noopener noreferrer" title="The Immortal Life of Henrietta Lacks">movie</a>, or listen to the audiobook on <a href="https://www.amazon.com/Immortal-Life-Henrietta-Lacks/dp/B0036UZCRM" target="_blank" rel="noopener noreferrer" title="The Immortal Life of Henrietta Lacks">Audible</a> or on <a href="https://mofibo.com/dk/authors/rebecca-skloot-4268" target="_blank" rel="noopener noreferrer" title="The Immortal Life of Henrietta Lacks">mofibo</a>.
 <br><br>
 
@@ -102,9 +102,9 @@ You can find the slides (in PDF format) used in connection to this meeting <a hr
 * <a href="https://rebeccaskloot.com/the-immortal-life/about-the-book/" target="_blank" rel="noopener noreferrer" title="The Immortal Life of Henrietta Lacks by Rebecca Skloot">The Immortal Life of Henrietta Lacks</a>, Rebecca Skloot.
 * <a href="http://henriettalacksfoundation.org/" target="_blank" rel="noopener noreferrer" title="The Henrietta Lacks Foundation">The Henrietta Lacks Foundation</a>
 * <a href="https://www.hopkinsmedicine.org/henrietta-lacks/upholding-the-highest-bioethical-standards" target="_blank" rel="noopener noreferrer" title="Upholding the highest Bioethical Standards">Upholding the Highest Bioethical Standards</a>, a statment by Johns Hopkins Medicine.
-* <a href="https://doi.org/10.1146/annurev-genom-083115-022536" target="_blank" rel="noopener noreferrer" title="Lessons from HeLa Cells: The Ethics and Policy of Biospecimens>Lessons from HeLa Cells: The Ethics and Policy of Biospecimens</a>, Laura M. Beskow, in Annu Rev Genomics Hum Genet, August 2016.
-* <a href="https://nationaltcenterforetik.dk/Media/637882233450564012/2015-05-12-Sundhedsdata-etiske-aspekter.pdf" target="_blank" rel="noopener noreferrer" title="Forskning i sundhedsdata og biologisk materiale i Danmark>Forskning i sundhedsdata og biologisk materiale i Danmark: Baggrundspapir – etiske aspekter</a>, Det Etiske Råd, 2015.
-* <a href="https://link.springer.com/chapter/10.1007/978-3-030-49388-2_11" target="_blank" rel="noopener noreferrer" title="Balancing of Individual Rights and Research Interests in Danish Biobank Regulation>Balancing of Individual Rights and Research Interests in Danish Biobank Regulation</a>, Mette Hartlev, Part of _Law, Governance and Technology Series_ book series, January 2021.
+* <a href="https://doi.org/10.1146/annurev-genom-083115-022536" target="_blank" rel="noopener noreferrer" title="Lessons from HeLa Cells: The Ethics and Policy of Biospecimens">Lessons from HeLa Cells: The Ethics and Policy of Biospecimens</a>, Laura M. Beskow, in Annu Rev Genomics Hum Genet, August 2016.
+* <a href="https://nationaltcenterforetik.dk/Media/637882233450564012/2015-05-12-Sundhedsdata-etiske-aspekter.pdf" target="_blank" rel="noopener noreferrer" title="Forskning i sundhedsdata og biologisk materiale i Danmark">Forskning i sundhedsdata og biologisk materiale i Danmark: Baggrundspapir – etiske aspekter</a>, Det Etiske Råd, 2015.
+* <a href="https://link.springer.com/chapter/10.1007/978-3-030-49388-2_11" target="_blank" rel="noopener noreferrer" title="Balancing of Individual Rights and Research Interests in Danish Biobank Regulation">Balancing of Individual Rights and Research Interests in Danish Biobank Regulation</a>, Mette Hartlev, Part of _Law, Governance and Technology Series_ book series, January 2021.
 
 <br><br><br>
 
