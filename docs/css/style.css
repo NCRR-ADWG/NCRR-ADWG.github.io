@@ -161,6 +161,21 @@ a:hover {
   color: #F1F1E6;
 }
 
+/* -------------- Adjusting tables -------------- */
+
+table {
+  border-spacing: 10px;
+}
+
+th, td {
+  text-align: left;
+  vertical-align: top;
+}
+
+tr {
+  border-bottom: 1px solid #004369;
+}
+
 
 /* Adjusting the footer for different screens*/
 
