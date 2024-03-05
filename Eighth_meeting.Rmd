@@ -57,7 +57,7 @@ You can find a full book summery <a href="https://www.sparknotes.com/lit/immorta
 Many ethical dilemmas and their consequences are mentioned in  _The Immortal Life of <b>He</b>nrietta <b>La</b>cks_. Some of them are represented in the following table:
 <br><br>
 
-<table style="width:90%">
+<table style="width:90%;border-spacing:20px">
   <tr>
     <th style="width:20%">Ethical dilemma</th>
     <th style="width:26%">1950s</th>
@@ -86,7 +86,7 @@ Many ethical dilemmas and their consequences are mentioned in  _The Immortal Lif
 
 <br><br>
 
-#### How to access the book
+### How to access the book
 <br>
 You can buy the book <a href="https://www.saxo.com/dk/the-immortal-life-of-henrietta-lacks_rebecca-skloot_paperback_9781400052189" target="_blank" rel="noopener noreferrer" title="The Immortal Life of Henrietta Lacks by Rebecca Skloot">here</a>.
 <br><br>
