@@ -1,0 +1,36 @@
+---
+title: "9th meeting - Thursday 21st of March 2024"
+---
+
+```{r, echo=FALSE}
+htmltools::includeCSS("./css/footer.css")
+```
+
+```{js, echo=FALSE}
+$(function() {
+  $('.main-container').after($('.footer'));
+})
+```
+
+## Ethical dilemmas in research
+<br>
+During the third anti-discrimination working group meeting in 2024 we will discuss ethical dilemmas in research
+<br><br>
+
+
+<!--
+You can find the slides (in PDF format) used in connection to this meeting <a href="Slides/ADWG_meeting.pdf" target="_blank" rel="noopener noreferrer" title="ADWG meeting - ">here</a>.
+-->
+<br><br><br>
+
+## Further information:
+<br>
+
+* <a href="https://rebeccaskloot.com/the-immortal-life/about-the-book/" target="_blank" rel="noopener noreferrer" title="The Immortal Life of Henrietta Lacks by Rebecca Skloot">The Immortal Life of Henrietta Lacks</a>, Rebecca Skloot.
+
+
+<br><br><br>
+
+```{r, echo=FALSE}
+htmltools::includeHTML("include_footer.html")
+```
