@@ -39,15 +39,19 @@ We were inspired by the <a href="https://www.kcl.ac.uk/mental-health-and-psychol
 <br>
 So far, we have covered the following topics:
 <br><br>
-<a href="First_meeting.html" title="Kick-off meeting - Friday 31st March 2023">__The misappropriation of genetics research__</a>, 
+<a href="First_meeting.html" title="Kick-off meeting - Friday 31 March 2023">__The misappropriation of genetics research__</a>, 
 <br>
-<a href="Second_meeting.html" title="Second meeting - Wednesday 17th May 2023">__The history of eugenics as it relates to genetic research__</a>,
+<a href="Second_meeting.html" title="Second meeting - Wednesday 17 May 2023">__The history of eugenics as it relates to genetic research__</a>,
 <br>
-<a href="Third_meeting.html" title="Third meeting - Wednesday 23rd June 2023">__Polygenic embryo screening__</a>,
+<a href="Third_meeting.html" title="Third meeting - Wednesday 23 June 2023">__Polygenic embryo screening__</a>,
 <br>
-<a href="Sixth_meeting.html" title="Sixth meeting - Wednesday 1st November 2023">__Ableism and positive psychology__</a>,and
+<a href="Sixth_meeting.html" title="Sixth meeting - Wednesday 1 November 2023">__Ableism and positive psychology__</a>,and
 <br>
-<a href="Seventh_meeting.html" title="7th meeting - Thursday 25th January 2023">__Discrimination and diversity in the Danish research community__</a>.
+<a href="Seventh_meeting.html" title="7th meeting - Thursday 25 January 2024">__Discrimination and diversity in the Danish research community__</a>.
+<br>
+<a href="Eighth_meeting.html" title="8th meeting - Thursday 22 February 2024">__Book club__: _The Immortal Life of <b>He</b>nrietta <b>La</b>cks_ by Rebecca Skloot</a>.
+<br>
+<a href="Ninth_meeting.html" title="9th meeting - Thursday 21 March 2024">__The Danish Brains__</a>.
 <br><br>
 You can find a summary, slides and further information about the different meetings under the tab **Meetings**.
 <br><br><br>
@@ -65,7 +69,7 @@ Then please do not hesitate to contact us!
 
 ## Join us!
 <br>
-Please join us for our next meeting, which will be held on **March 21, 2024**.
+Please join us for our next meeting, which will be held on **April 24, 2024**.
 If you would like to be invited to future hybrid meetings, receive reminder emails, and other information <a href="contact.html" title="Join us!">**contact** us</a>!
 <br><br><br>
 

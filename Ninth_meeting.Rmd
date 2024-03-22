@@ -12,11 +12,17 @@ $(function() {
 })
 ```
 
-## Ethical dilemmas in research
+<!--
+ <a href="" target="_blank" rel="noopener noreferrer" title=""></a>
+-->
+## The Danish Brains - a bioethical discussion
 <br>
-During the third anti-discrimination working group meeting in 2024 we will discuss ethical dilemmas in research
+In this anti-discrimination working group meeting we learned about the Danish Brains from our guest speaker Thomas Erslev.
+<br>
+<a href="https://www.therslev.dk/" target="_blank" rel="noopener noreferrer" title="Thomas Erslev">Thomas Erslev</a> is a medical historian who has been working with medical collection practices and the ethical controversies attendant on such practices for several years. Thomas wrote his PhD-thesis about  <a href="https://www.therslev.dk/wp-content/uploads/2020/02/thesis.pdf" target="_blank" rel="noopener noreferrer" title="The Danish Brains - An Archive">The Danish Brains</a>, a collection of 9,479 brains taken from psychiatric patients who were autopsied for diagnostic and research purposes at Danish mental hospitals between 1945 and 1982. You can learn more about the Danish Brains from <a href="https://www.bbc.com/reel/video/p0g1ntd0/the-danish-basement-housing-10-000-human-brains" target="_blank" rel="noopener noreferrer" title="The Danish basement housing 10,000 human brains">this</a> BBC clip or <a href="https://edition.cnn.com/videos/tv/2023/03/21/worlds-untold-stories-the-brain-collectors-spc-intl.cnn" target="_blank" rel="noopener noreferrer" title="World's Untold Stories: The Brain Collectors">this</a> CNN documentary.
+<br>
+After learning about the background of the Danish Brains, we discussed some of the bioethical dilemmas surrounding biobanks and register data in the context of psychiatry.   
 <br><br>
-
 
 <!--
 You can find the slides (in PDF format) used in connection to this meeting <a href="Slides/ADWG_meeting.pdf" target="_blank" rel="noopener noreferrer" title="ADWG meeting - ">here</a>.
@@ -26,8 +32,9 @@ You can find the slides (in PDF format) used in connection to this meeting <a hr
 ## Further information:
 <br>
 
-* <a href="https://rebeccaskloot.com/the-immortal-life/about-the-book/" target="_blank" rel="noopener noreferrer" title="The Immortal Life of Henrietta Lacks by Rebecca Skloot">The Immortal Life of Henrietta Lacks</a>, Rebecca Skloot.
-
+* <a href="https://www.therslev.dk/" target="_blank" rel="noopener noreferrer" title="Thomas Erslev">Thomas Erslev</a>'s homepage.
+* <a href="https://www.bbc.com/reel/video/p0g1ntd0/the-danish-basement-housing-10-000-human-brains" target="_blank" rel="noopener noreferrer" title="The Danish basement housing 10,000 human brains">The Danish basement housing 10,000 human brains</a>, a short BBC clip about the Danish Brains.
+* <a href="https://edition.cnn.com/videos/tv/2023/03/21/worlds-untold-stories-the-brain-collectors-spc-intl.cnn" target="_blank" rel="noopener noreferrer" title="World's Untold Stories: The Brain Collectors">World's Untold Stories: The Brain Collectors</a> a 1h long CNN documentary.
 
 <br><br><br>
 
