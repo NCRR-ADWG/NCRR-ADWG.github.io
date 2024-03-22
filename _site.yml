@@ -10,6 +10,8 @@ navbar:
     - text: "Meetings"
       menu:
       - text: Meetings in 2024
+      - text: "The Danish Brains - A bioethical discussion"
+        href: Ninth_meeting.html
       - text: "Book club: The Immortal Life of Henrietta Lacks"
         href: Eighth_meeting.html
       - text: "Discrimination and diversity in the Danish research community"
