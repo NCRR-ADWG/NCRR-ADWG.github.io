@@ -79,7 +79,7 @@ a:hover {
 
 .hero-image {
   background-image: url(images/Banner_with_DNA_helix.jpg); /* The background image */
-  background-color: #01949A; /* Used if the background image is unavailable*/
+  background-color: #001737; /* Used if the background image is unavailable*/
   height: 500px; /* The height of the background image */
   background-position: center; /* Center the background image */
   background-repeat: no-repeat; /* Do not repeat the background image */
