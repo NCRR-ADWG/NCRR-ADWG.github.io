@@ -18,7 +18,7 @@ $(function() {
 ## Research without participant consent and involvement; is it sustainable?
 <br>
 During the anti-discrimination working group meeting that took place on 16 May 2024, we discussed whether research without participant consent and involvement is sustainable.
-Our discussion was based on a <a href=https://www.dr.dk/nyheder/indland/vil-danskere-melde-sig-ud-af-forskning-efter-blodproevesag-ekspert-kalder-det-en" target="_blank" rel="noopener noreferrer" title="SSI and their blood samples">newspaper article</a> by Astrid Fischer and Jonas Deiborg. 
+Our discussion was based on a <a href="https://www.dr.dk/nyheder/indland/vil-danskere-melde-sig-ud-af-forskning-efter-blodproevesag-ekspert-kalder-det-en" target="_blank" rel="noopener noreferrer" title="SSI and their blood samples">newspaper article</a> by Astrid Fischer and Jonas Deiborg. 
 <br>
  
 <br><br>
@@ -30,11 +30,11 @@ You can find the slides (in PDF format) used in connection to this meeting <a hr
 ## Further information:
 <br>
 
-* <a href=https://www.dr.dk/nyheder/indland/vil-danskere-melde-sig-ud-af-forskning-efter-blodproevesag-ekspert-kalder-det-en" target="_blank" rel="noopener noreferrer" title="SSI and their blood samples">__Vil danskere melde sig ud af forskning efter blodprøvesag? Ekspert kalder det en 'potentiel bombe'__</a>, news article by Jonas Deiborg and Astrid Fischer.
-* <a href=https://politiken.dk/debat/kroniken/art6186127/Big-Brother-n%C3%A6rmer-sig.-Staten-vil-stj%C3%A6le-dine-dna-oplysninger" target="_blank" rel="noopener noreferrer" title="Big Brother nærmer sig">__Pas på: Big Brother nærmer sig. Staten vil stjæle dine dna-oplysninger__</a>, news article by Anders Beich and Thomas Birk Kristensen. Pusblished in __Politiken__ 2 November 2017.
-* <a href=https://doi.org/10.1038/s41380-018-0257-4" target="_blank" rel="noopener noreferrer" title="Ethical concerns regarding Danish genetic research">__Ethical concerns regarding Danish genetic research__</a>, Thomas Birk Kristensen and Anders Beich, 2018.
-* <a href=https://doi.org/10.1038/s41380-018-0296-x" target="_blank" rel="noopener noreferrer" title="Response to 'Ethical concerns regarding Danish genetic research'">__Response to 'Ethical concerns regarding Danish genetic research'__</a>, Preben Bo Mortensen, 2018.
-* <a href=https://doi.org/10.1126/science.aaz3797" target="_blank" rel="noopener noreferrer" title="Genome studies reveal flaws in broad consent">__Genome studies reveal flaws in broad consent__</a>, Søren Holm and Thomas Ploug, 2019.
+* <a href="https://www.dr.dk/nyheder/indland/vil-danskere-melde-sig-ud-af-forskning-efter-blodproevesag-ekspert-kalder-det-en" target="_blank" rel="noopener noreferrer" title="SSI and their blood samples">__Vil danskere melde sig ud af forskning efter blodprøvesag? Ekspert kalder det en 'potentiel bombe'__</a>, news article by Jonas Deiborg and Astrid Fischer.
+* <a href="https://politiken.dk/debat/kroniken/art6186127/Big-Brother-n%C3%A6rmer-sig.-Staten-vil-stj%C3%A6le-dine-dna-oplysninger" target="_blank" rel="noopener noreferrer" title="Big Brother nærmer sig">__Pas på: Big Brother nærmer sig. Staten vil stjæle dine dna-oplysninger__</a>, news article by Anders Beich and Thomas Birk Kristensen. Pusblished in __Politiken__ 2 November 2017.
+* <a href="https://doi.org/10.1038/s41380-018-0257-4" target="_blank" rel="noopener noreferrer" title="Ethical concerns regarding Danish genetic research">__Ethical concerns regarding Danish genetic research__</a>, Thomas Birk Kristensen and Anders Beich, 2018.
+* <a href="https://doi.org/10.1038/s41380-018-0296-x" target="_blank" rel="noopener noreferrer" title="Response to 'Ethical concerns regarding Danish genetic research'">__Response to 'Ethical concerns regarding Danish genetic research'__</a>, Preben Bo Mortensen, 2018.
+* <a href="https://doi.org/10.1126/science.aaz3797" target="_blank" rel="noopener noreferrer" title="Genome studies reveal flaws in broad consent">__Genome studies reveal flaws in broad consent__</a>, Søren Holm and Thomas Ploug, 2019.
 
 
 
